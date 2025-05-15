@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain_openai
+langchain_community
+langchain_elasticsearch
+langgraph
+pdfminer.six
+pymupdf
+unstructured
+elasticsearch
