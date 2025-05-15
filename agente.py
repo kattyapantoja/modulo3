@@ -1,21 +1,21 @@
 import os
-from langchain.agents import create_react_agent
+from langchain.agents import create_react_agent, AgentExecutor
 from langchain import hub
 from langchain.tools import Tool
-from langchain.memory import ConversationBufferMemory
 from langchain_openai import ChatOpenAI
 from langchain_core.runnables import RunnableBranch, RunnableLambda
 
-# Configuración de claves desde variables de entorno
+# Carga de llaves si se usan archivos .env (opcional)
 from dotenv import load_dotenv
 load_dotenv()
 
+# Configuración LLM
 llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0)
 
 # Prompt base
 base_prompt = hub.pull("hwchase17/react")
 
-# Herramienta de simulación
+# Herramientas simuladas
 def dummy_stock_checker(_):
     return "Todos los insumos están en stock."
 
@@ -25,22 +25,21 @@ def dummy_cost_calculator(params):
 def dummy_order_checker(params=None):
     return "Tienes 2 pedidos programados para el fin de semana."
 
-# Herramientas
 tools_inventario = [Tool(name="ver_productos_con_stock_bajo", func=dummy_stock_checker, description="Muestra los insumos con niveles de stock bajos.")]
 tools_costos = [Tool(name="calcular_costos", func=dummy_cost_calculator, description="Calcula el costo de un producto.")]
 tools_pedidos = [Tool(name="ver_pedidos_programados", func=dummy_order_checker, description="Muestra los pedidos programados.")]
 
-# Agentes especializados
+# Agentes
 agent_inventario = create_react_agent(llm=llm, tools=tools_inventario, prompt=base_prompt)
 agent_costos = create_react_agent(llm=llm, tools=tools_costos, prompt=base_prompt)
 agent_pedidos = create_react_agent(llm=llm, tools=tools_pedidos, prompt=base_prompt)
 
-# Ejecutores con memoria
-executor_inventario = agent_inventario
-executor_costos = agent_costos
-executor_pedidos = agent_pedidos
+# Ejecutores con manejo de intermediate_steps vacío
+executor_inventario = AgentExecutor(agent=agent_inventario, tools=tools_inventario, verbose=True)
+executor_costos = AgentExecutor(agent=agent_costos, tools=tools_costos, verbose=True)
+executor_pedidos = AgentExecutor(agent=agent_pedidos, tools=tools_pedidos, verbose=True)
 
-# Función de ruteo
+# Redirección de agente
 def redirigir_a_agente(input):
     texto = input["input"].lower()
     if "stock" in texto or "insumos" in texto:
@@ -52,8 +51,11 @@ def redirigir_a_agente(input):
     else:
         return executor_costos  # fallback temporal
 
-# Rama principal de control
+# Rama de control
 agente_controlador = RunnableBranch(
-    (lambda x: True, RunnableLambda(redirigir_a_agente)),
+    (lambda x: True, RunnableLambda(lambda x: redirigir_a_agente(x).invoke({
+        "input": x["input"],
+        "intermediate_steps": []
+    }))),
     RunnableLambda(lambda x: {"output": "Lo siento, no entendí tu consulta."})
 )
