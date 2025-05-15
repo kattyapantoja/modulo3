@@ -1,0 +1,1739 @@
+cliente,producto,fecha_entrega,estado
+Andrea Alfaro,Pie de limón,2024-04-01,confirmado
+Carlos Huamán,Brownies clásicos,2024-04-02,confirmado
+Carlos Huamán,Cheesecake de maracuyá,2024-04-02,confirmado
+Luis Quispe,Torta de chocolate,2024-04-02,pendiente
+Lucía Ríos,Brownies clásicos,2024-04-02,entregado
+Luis Quispe,Cheesecake de maracuyá,2024-04-03,confirmado
+Carlos Huamán,Torta de chocolate,2024-04-03,entregado
+Ana Torres,Cupcakes Red Velvet,2024-04-03,pendiente
+Andrea Alfaro,Tarta de frambuesa,2024-04-03,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2024-04-03,entregado
+Pedro Castañeda,Torta de chocolate,2024-04-04,entregado
+Andrea Alfaro,Mini cheesecake de fresa,2024-04-04,pendiente
+Carlos Huamán,Brownies clásicos,2024-04-04,confirmado
+Andrea Alfaro,Pie de limón,2024-04-05,entregado
+Pedro Castañeda,Torta de zanahoria,2024-04-05,confirmado
+Luis Quispe,Pie de limón,2024-04-05,entregado
+Luis Quispe,Cupcakes Red Velvet,2024-04-05,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2024-04-05,entregado
+Pedro Castañeda,Brownies clásicos,2024-04-06,pendiente
+Ana Torres,Mini cheesecake de fresa,2024-04-06,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2024-04-06,confirmado
+Luis Quispe,Torta de chocolate,2024-04-06,confirmado
+Carlos Huamán,Mini cheesecake de fresa,2024-04-06,confirmado
+Andrea Alfaro,Tarta de frambuesa,2024-04-07,pendiente
+Jorge Salazar,Cheesecake de maracuyá,2024-04-07,confirmado
+Lucía Ríos,Brownies clásicos,2024-04-08,pendiente
+Luis Quispe,Pie de limón,2024-04-08,confirmado
+Carlos Huamán,Cheesecake de maracuyá,2024-04-08,confirmado
+Jorge Salazar,Brownies clásicos,2024-04-09,pendiente
+Andrea Alfaro,Tarta de frambuesa,2024-04-09,pendiente
+Valeria Mena,Torta de zanahoria,2024-04-09,entregado
+Valeria Mena,Brownies clásicos,2024-04-09,pendiente
+Jorge Salazar,Brownies clásicos,2024-04-10,entregado
+Luis Quispe,Cupcakes Red Velvet,2024-04-10,entregado
+Carlos Huamán,Tarta de frambuesa,2024-04-10,pendiente
+Ana Torres,Tarta de frambuesa,2024-04-10,pendiente
+Lucía Ríos,Brownies clásicos,2024-04-11,pendiente
+Jorge Salazar,Torta de zanahoria,2024-04-11,pendiente
+Valeria Mena,Mini cheesecake de fresa,2024-04-11,confirmado
+Lucía Ríos,Pie de limón,2024-04-12,pendiente
+Ana Torres,Cheesecake de maracuyá,2024-04-12,entregado
+Valeria Mena,Cheesecake de maracuyá,2024-04-12,confirmado
+Valeria Mena,Mini cheesecake de fresa,2024-04-13,entregado
+Valeria Mena,Torta de zanahoria,2024-04-13,confirmado
+Carlos Huamán,Torta de chocolate,2024-04-13,pendiente
+Jorge Salazar,Tarta de frambuesa,2024-04-13,pendiente
+Valeria Mena,Mini cheesecake de fresa,2024-04-13,confirmado
+Luis Quispe,Torta de zanahoria,2024-04-14,entregado
+Valeria Mena,Cupcakes Red Velvet,2024-04-14,entregado
+Ana Torres,Cupcakes Red Velvet,2024-04-15,confirmado
+Pedro Castañeda,Cheesecake de maracuyá,2024-04-16,entregado
+Andrea Alfaro,Cupcakes Red Velvet,2024-04-16,pendiente
+Carlos Huamán,Mini cheesecake de fresa,2024-04-16,entregado
+Jorge Salazar,Brownies clásicos,2024-04-17,entregado
+Ana Torres,Torta de zanahoria,2024-04-17,pendiente
+Ana Torres,Cheesecake de maracuyá,2024-04-17,confirmado
+Jorge Salazar,Brownies clásicos,2024-04-17,entregado
+Valeria Mena,Torta de zanahoria,2024-04-17,entregado
+Ana Torres,Torta de zanahoria,2024-04-18,entregado
+Valeria Mena,Mini cheesecake de fresa,2024-04-18,confirmado
+Carlos Huamán,Torta de zanahoria,2024-04-18,pendiente
+Pedro Castañeda,Cupcakes Red Velvet,2024-04-19,pendiente
+Ana Torres,Tarta de frambuesa,2024-04-20,confirmado
+Carlos Huamán,Pie de limón,2024-04-20,pendiente
+Pedro Castañeda,Cupcakes Red Velvet,2024-04-21,confirmado
+Luis Quispe,Brownies clásicos,2024-04-22,confirmado
+Ana Torres,Cupcakes Red Velvet,2024-04-22,entregado
+Jorge Salazar,Mini cheesecake de fresa,2024-04-22,entregado
+Carlos Huamán,Torta de zanahoria,2024-04-23,entregado
+Valeria Mena,Brownies clásicos,2024-04-23,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2024-04-24,confirmado
+Valeria Mena,Torta de zanahoria,2024-04-24,confirmado
+Jorge Salazar,Torta de zanahoria,2024-04-25,confirmado
+Valeria Mena,Torta de zanahoria,2024-04-26,entregado
+Ana Torres,Cheesecake de maracuyá,2024-04-26,entregado
+Carlos Huamán,Pie de limón,2024-04-26,pendiente
+Valeria Mena,Torta de zanahoria,2024-04-26,confirmado
+Jorge Salazar,Cheesecake de maracuyá,2024-04-27,pendiente
+Jorge Salazar,Torta de chocolate,2024-04-27,confirmado
+Ana Torres,Mini cheesecake de fresa,2024-04-27,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2024-04-27,entregado
+Carlos Huamán,Torta de chocolate,2024-04-27,pendiente
+Andrea Alfaro,Torta de zanahoria,2024-04-28,confirmado
+Valeria Mena,Torta de chocolate,2024-04-28,confirmado
+Valeria Mena,Brownies clásicos,2024-04-28,entregado
+Andrea Alfaro,Tarta de frambuesa,2024-04-28,confirmado
+Ana Torres,Cupcakes Red Velvet,2024-04-29,confirmado
+Lucía Ríos,Torta de zanahoria,2024-04-29,confirmado
+Jorge Salazar,Pie de limón,2024-04-29,pendiente
+Jorge Salazar,Mini cheesecake de fresa,2024-04-29,confirmado
+Luis Quispe,Tarta de frambuesa,2024-04-30,pendiente
+Valeria Mena,Mini cheesecake de fresa,2024-04-30,entregado
+Jorge Salazar,Cheesecake de maracuyá,2024-04-30,pendiente
+Andrea Alfaro,Torta de chocolate,2024-05-01,pendiente
+Andrea Alfaro,Cheesecake de maracuyá,2024-05-01,entregado
+Pedro Castañeda,Tarta de frambuesa,2024-05-01,entregado
+Andrea Alfaro,Tarta de frambuesa,2024-05-01,entregado
+Ana Torres,Torta de chocolate,2024-05-02,pendiente
+Lucía Ríos,Brownies clásicos,2024-05-03,entregado
+Carlos Huamán,Torta de zanahoria,2024-05-03,entregado
+Valeria Mena,Torta de chocolate,2024-05-03,confirmado
+Ana Torres,Torta de zanahoria,2024-05-04,pendiente
+Carlos Huamán,Cupcakes Red Velvet,2024-05-04,confirmado
+Luis Quispe,Pie de limón,2024-05-04,pendiente
+Luis Quispe,Brownies clásicos,2024-05-05,pendiente
+Lucía Ríos,Brownies clásicos,2024-05-05,entregado
+Jorge Salazar,Torta de zanahoria,2024-05-05,entregado
+Jorge Salazar,Cheesecake de maracuyá,2024-05-06,pendiente
+Luis Quispe,Torta de chocolate,2024-05-07,pendiente
+Ana Torres,Tarta de frambuesa,2024-05-07,pendiente
+Carlos Huamán,Cheesecake de maracuyá,2024-05-08,entregado
+Lucía Ríos,Tarta de frambuesa,2024-05-08,pendiente
+Carlos Huamán,Cheesecake de maracuyá,2024-05-09,entregado
+Carlos Huamán,Tarta de frambuesa,2024-05-09,confirmado
+Lucía Ríos,Pie de limón,2024-05-10,confirmado
+Valeria Mena,Torta de zanahoria,2024-05-10,confirmado
+Luis Quispe,Cupcakes Red Velvet,2024-05-10,entregado
+Luis Quispe,Torta de zanahoria,2024-05-10,pendiente
+Andrea Alfaro,Cheesecake de maracuyá,2024-05-10,entregado
+Valeria Mena,Torta de zanahoria,2024-05-11,confirmado
+Ana Torres,Torta de chocolate,2024-05-11,entregado
+Lucía Ríos,Cupcakes Red Velvet,2024-05-11,confirmado
+Luis Quispe,Cupcakes Red Velvet,2024-05-11,confirmado
+Lucía Ríos,Cheesecake de maracuyá,2024-05-11,confirmado
+Pedro Castañeda,Tarta de frambuesa,2024-05-12,entregado
+Lucía Ríos,Cheesecake de maracuyá,2024-05-12,pendiente
+Carlos Huamán,Pie de limón,2024-05-12,pendiente
+Pedro Castañeda,Torta de chocolate,2024-05-12,confirmado
+Pedro Castañeda,Torta de zanahoria,2024-05-13,confirmado
+Pedro Castañeda,Tarta de frambuesa,2024-05-13,confirmado
+Lucía Ríos,Torta de chocolate,2024-05-13,pendiente
+Jorge Salazar,Torta de zanahoria,2024-05-13,confirmado
+Valeria Mena,Torta de zanahoria,2024-05-13,confirmado
+Valeria Mena,Torta de zanahoria,2024-05-14,entregado
+Luis Quispe,Torta de chocolate,2024-05-14,pendiente
+Jorge Salazar,Pie de limón,2024-05-15,pendiente
+Valeria Mena,Cupcakes Red Velvet,2024-05-15,entregado
+Carlos Huamán,Brownies clásicos,2024-05-15,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2024-05-15,pendiente
+Pedro Castañeda,Brownies clásicos,2024-05-15,pendiente
+Pedro Castañeda,Cupcakes Red Velvet,2024-05-16,pendiente
+Andrea Alfaro,Torta de zanahoria,2024-05-17,confirmado
+Carlos Huamán,Torta de zanahoria,2024-05-17,entregado
+Luis Quispe,Mini cheesecake de fresa,2024-05-17,entregado
+Valeria Mena,Tarta de frambuesa,2024-05-17,entregado
+Carlos Huamán,Pie de limón,2024-05-17,entregado
+Pedro Castañeda,Torta de chocolate,2024-05-18,confirmado
+Pedro Castañeda,Torta de chocolate,2024-05-19,confirmado
+Ana Torres,Cupcakes Red Velvet,2024-05-19,confirmado
+Ana Torres,Brownies clásicos,2024-05-19,confirmado
+Pedro Castañeda,Pie de limón,2024-05-20,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2024-05-20,entregado
+Jorge Salazar,Pie de limón,2024-05-21,entregado
+Ana Torres,Tarta de frambuesa,2024-05-22,entregado
+Andrea Alfaro,Torta de zanahoria,2024-05-22,entregado
+Carlos Huamán,Cupcakes Red Velvet,2024-05-23,pendiente
+Pedro Castañeda,Pie de limón,2024-05-24,pendiente
+Luis Quispe,Tarta de frambuesa,2024-05-24,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2024-05-24,entregado
+Valeria Mena,Torta de chocolate,2024-05-24,pendiente
+Ana Torres,Pie de limón,2024-05-24,confirmado
+Andrea Alfaro,Torta de zanahoria,2024-05-25,confirmado
+Carlos Huamán,Torta de chocolate,2024-05-26,confirmado
+Luis Quispe,Torta de zanahoria,2024-05-26,pendiente
+Carlos Huamán,Mini cheesecake de fresa,2024-05-26,entregado
+Lucía Ríos,Mini cheesecake de fresa,2024-05-26,pendiente
+Luis Quispe,Cheesecake de maracuyá,2024-05-27,confirmado
+Valeria Mena,Brownies clásicos,2024-05-27,confirmado
+Pedro Castañeda,Torta de chocolate,2024-05-27,entregado
+Jorge Salazar,Brownies clásicos,2024-05-27,confirmado
+Luis Quispe,Cupcakes Red Velvet,2024-05-27,pendiente
+Valeria Mena,Brownies clásicos,2024-05-28,entregado
+Jorge Salazar,Cheesecake de maracuyá,2024-05-28,confirmado
+Carlos Huamán,Mini cheesecake de fresa,2024-05-29,pendiente
+Luis Quispe,Torta de chocolate,2024-05-30,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2024-05-30,entregado
+Ana Torres,Brownies clásicos,2024-05-30,entregado
+Jorge Salazar,Torta de chocolate,2024-05-30,entregado
+Jorge Salazar,Cupcakes Red Velvet,2024-05-30,entregado
+Luis Quispe,Cupcakes Red Velvet,2024-05-31,pendiente
+Carlos Huamán,Cupcakes Red Velvet,2024-05-31,confirmado
+Lucía Ríos,Torta de chocolate,2024-05-31,entregado
+Luis Quispe,Cheesecake de maracuyá,2024-06-01,pendiente
+Carlos Huamán,Cheesecake de maracuyá,2024-06-01,confirmado
+Pedro Castañeda,Pie de limón,2024-06-01,confirmado
+Andrea Alfaro,Cheesecake de maracuyá,2024-06-01,pendiente
+Valeria Mena,Torta de zanahoria,2024-06-01,entregado
+Ana Torres,Torta de zanahoria,2024-06-02,entregado
+Luis Quispe,Cheesecake de maracuyá,2024-06-02,entregado
+Lucía Ríos,Mini cheesecake de fresa,2024-06-02,entregado
+Carlos Huamán,Torta de chocolate,2024-06-02,entregado
+Pedro Castañeda,Brownies clásicos,2024-06-02,entregado
+Ana Torres,Tarta de frambuesa,2024-06-03,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2024-06-03,entregado
+Lucía Ríos,Torta de zanahoria,2024-06-03,pendiente
+Pedro Castañeda,Brownies clásicos,2024-06-03,confirmado
+Valeria Mena,Cupcakes Red Velvet,2024-06-04,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2024-06-04,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2024-06-05,confirmado
+Carlos Huamán,Pie de limón,2024-06-05,entregado
+Jorge Salazar,Tarta de frambuesa,2024-06-05,entregado
+Carlos Huamán,Tarta de frambuesa,2024-06-05,pendiente
+Carlos Huamán,Torta de chocolate,2024-06-05,confirmado
+Jorge Salazar,Pie de limón,2024-06-06,pendiente
+Lucía Ríos,Cheesecake de maracuyá,2024-06-06,pendiente
+Lucía Ríos,Pie de limón,2024-06-07,entregado
+Luis Quispe,Torta de chocolate,2024-06-07,entregado
+Jorge Salazar,Torta de zanahoria,2024-06-08,entregado
+Pedro Castañeda,Torta de zanahoria,2024-06-08,pendiente
+Carlos Huamán,Cupcakes Red Velvet,2024-06-08,confirmado
+Ana Torres,Tarta de frambuesa,2024-06-08,entregado
+Andrea Alfaro,Tarta de frambuesa,2024-06-08,pendiente
+Jorge Salazar,Torta de chocolate,2024-06-09,pendiente
+Pedro Castañeda,Brownies clásicos,2024-06-09,pendiente
+Pedro Castañeda,Tarta de frambuesa,2024-06-09,confirmado
+Ana Torres,Pie de limón,2024-06-10,confirmado
+Jorge Salazar,Torta de zanahoria,2024-06-10,confirmado
+Valeria Mena,Cheesecake de maracuyá,2024-06-10,entregado
+Andrea Alfaro,Tarta de frambuesa,2024-06-10,pendiente
+Carlos Huamán,Pie de limón,2024-06-11,pendiente
+Jorge Salazar,Brownies clásicos,2024-06-12,confirmado
+Valeria Mena,Torta de chocolate,2024-06-12,pendiente
+Jorge Salazar,Brownies clásicos,2024-06-12,entregado
+Jorge Salazar,Torta de chocolate,2024-06-12,confirmado
+Valeria Mena,Cupcakes Red Velvet,2024-06-13,pendiente
+Jorge Salazar,Torta de zanahoria,2024-06-13,pendiente
+Carlos Huamán,Torta de zanahoria,2024-06-13,pendiente
+Carlos Huamán,Cupcakes Red Velvet,2024-06-13,pendiente
+Carlos Huamán,Tarta de frambuesa,2024-06-14,pendiente
+Jorge Salazar,Brownies clásicos,2024-06-14,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2024-06-14,confirmado
+Ana Torres,Tarta de frambuesa,2024-06-15,pendiente
+Luis Quispe,Cupcakes Red Velvet,2024-06-15,confirmado
+Ana Torres,Cheesecake de maracuyá,2024-06-16,pendiente
+Carlos Huamán,Torta de chocolate,2024-06-16,confirmado
+Luis Quispe,Cupcakes Red Velvet,2024-06-17,confirmado
+Ana Torres,Torta de zanahoria,2024-06-17,pendiente
+Andrea Alfaro,Torta de chocolate,2024-06-17,entregado
+Luis Quispe,Torta de zanahoria,2024-06-18,pendiente
+Carlos Huamán,Mini cheesecake de fresa,2024-06-18,entregado
+Jorge Salazar,Cupcakes Red Velvet,2024-06-18,entregado
+Carlos Huamán,Tarta de frambuesa,2024-06-19,entregado
+Pedro Castañeda,Pie de limón,2024-06-19,entregado
+Jorge Salazar,Torta de chocolate,2024-06-19,entregado
+Valeria Mena,Mini cheesecake de fresa,2024-06-20,entregado
+Lucía Ríos,Tarta de frambuesa,2024-06-20,confirmado
+Ana Torres,Mini cheesecake de fresa,2024-06-20,entregado
+Andrea Alfaro,Pie de limón,2024-06-21,confirmado
+Lucía Ríos,Cupcakes Red Velvet,2024-06-21,pendiente
+Lucía Ríos,Torta de zanahoria,2024-06-21,pendiente
+Jorge Salazar,Torta de zanahoria,2024-06-21,pendiente
+Pedro Castañeda,Torta de chocolate,2024-06-22,confirmado
+Luis Quispe,Torta de zanahoria,2024-06-22,entregado
+Valeria Mena,Pie de limón,2024-06-22,confirmado
+Luis Quispe,Torta de chocolate,2024-06-22,entregado
+Carlos Huamán,Pie de limón,2024-06-23,pendiente
+Andrea Alfaro,Torta de zanahoria,2024-06-23,pendiente
+Valeria Mena,Torta de zanahoria,2024-06-24,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2024-06-24,entregado
+Luis Quispe,Cheesecake de maracuyá,2024-06-25,confirmado
+Pedro Castañeda,Torta de chocolate,2024-06-25,entregado
+Lucía Ríos,Cupcakes Red Velvet,2024-06-25,confirmado
+Jorge Salazar,Torta de zanahoria,2024-06-25,pendiente
+Andrea Alfaro,Cupcakes Red Velvet,2024-06-26,confirmado
+Pedro Castañeda,Tarta de frambuesa,2024-06-26,entregado
+Valeria Mena,Torta de zanahoria,2024-06-26,pendiente
+Ana Torres,Torta de zanahoria,2024-06-26,entregado
+Luis Quispe,Torta de chocolate,2024-06-26,entregado
+Carlos Huamán,Tarta de frambuesa,2024-06-27,entregado
+Jorge Salazar,Torta de chocolate,2024-06-27,confirmado
+Luis Quispe,Brownies clásicos,2024-06-28,pendiente
+Valeria Mena,Mini cheesecake de fresa,2024-06-28,pendiente
+Luis Quispe,Cupcakes Red Velvet,2024-06-29,pendiente
+Jorge Salazar,Cheesecake de maracuyá,2024-06-29,pendiente
+Ana Torres,Torta de chocolate,2024-06-30,entregado
+Pedro Castañeda,Tarta de frambuesa,2024-06-30,pendiente
+Carlos Huamán,Brownies clásicos,2024-06-30,entregado
+Valeria Mena,Torta de zanahoria,2024-06-30,pendiente
+Lucía Ríos,Cheesecake de maracuyá,2024-06-30,entregado
+Valeria Mena,Cupcakes Red Velvet,2024-07-01,confirmado
+Ana Torres,Torta de zanahoria,2024-07-01,entregado
+Valeria Mena,Mini cheesecake de fresa,2024-07-02,pendiente
+Jorge Salazar,Cupcakes Red Velvet,2024-07-02,pendiente
+Lucía Ríos,Cheesecake de maracuyá,2024-07-02,pendiente
+Lucía Ríos,Torta de zanahoria,2024-07-03,entregado
+Pedro Castañeda,Mini cheesecake de fresa,2024-07-03,entregado
+Pedro Castañeda,Cupcakes Red Velvet,2024-07-04,confirmado
+Pedro Castañeda,Cheesecake de maracuyá,2024-07-04,pendiente
+Ana Torres,Cupcakes Red Velvet,2024-07-04,confirmado
+Carlos Huamán,Torta de zanahoria,2024-07-05,pendiente
+Andrea Alfaro,Brownies clásicos,2024-07-06,entregado
+Lucía Ríos,Cupcakes Red Velvet,2024-07-06,entregado
+Luis Quispe,Torta de chocolate,2024-07-06,entregado
+Jorge Salazar,Cupcakes Red Velvet,2024-07-07,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2024-07-07,entregado
+Luis Quispe,Torta de chocolate,2024-07-07,entregado
+Carlos Huamán,Torta de zanahoria,2024-07-08,pendiente
+Andrea Alfaro,Torta de zanahoria,2024-07-09,pendiente
+Lucía Ríos,Torta de zanahoria,2024-07-09,confirmado
+Jorge Salazar,Mini cheesecake de fresa,2024-07-09,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2024-07-09,pendiente
+Jorge Salazar,Pie de limón,2024-07-10,entregado
+Luis Quispe,Pie de limón,2024-07-10,entregado
+Pedro Castañeda,Brownies clásicos,2024-07-10,entregado
+Andrea Alfaro,Cupcakes Red Velvet,2024-07-11,entregado
+Valeria Mena,Cupcakes Red Velvet,2024-07-11,pendiente
+Carlos Huamán,Torta de zanahoria,2024-07-11,confirmado
+Pedro Castañeda,Pie de limón,2024-07-11,confirmado
+Carlos Huamán,Brownies clásicos,2024-07-11,confirmado
+Ana Torres,Mini cheesecake de fresa,2024-07-12,pendiente
+Ana Torres,Pie de limón,2024-07-12,entregado
+Jorge Salazar,Pie de limón,2024-07-13,entregado
+Carlos Huamán,Tarta de frambuesa,2024-07-13,pendiente
+Jorge Salazar,Pie de limón,2024-07-14,entregado
+Carlos Huamán,Pie de limón,2024-07-14,entregado
+Lucía Ríos,Brownies clásicos,2024-07-15,confirmado
+Luis Quispe,Tarta de frambuesa,2024-07-15,confirmado
+Ana Torres,Torta de zanahoria,2024-07-15,pendiente
+Jorge Salazar,Cupcakes Red Velvet,2024-07-16,confirmado
+Lucía Ríos,Cupcakes Red Velvet,2024-07-17,entregado
+Andrea Alfaro,Cupcakes Red Velvet,2024-07-17,confirmado
+Luis Quispe,Pie de limón,2024-07-17,confirmado
+Lucía Ríos,Cheesecake de maracuyá,2024-07-18,pendiente
+Andrea Alfaro,Cheesecake de maracuyá,2024-07-18,pendiente
+Lucía Ríos,Brownies clásicos,2024-07-18,confirmado
+Pedro Castañeda,Cheesecake de maracuyá,2024-07-18,pendiente
+Carlos Huamán,Pie de limón,2024-07-19,entregado
+Carlos Huamán,Brownies clásicos,2024-07-19,entregado
+Pedro Castañeda,Cupcakes Red Velvet,2024-07-19,entregado
+Pedro Castañeda,Mini cheesecake de fresa,2024-07-19,pendiente
+Pedro Castañeda,Brownies clásicos,2024-07-20,entregado
+Carlos Huamán,Cupcakes Red Velvet,2024-07-20,pendiente
+Luis Quispe,Torta de chocolate,2024-07-20,pendiente
+Carlos Huamán,Torta de zanahoria,2024-07-20,pendiente
+Lucía Ríos,Torta de zanahoria,2024-07-21,entregado
+Lucía Ríos,Mini cheesecake de fresa,2024-07-21,confirmado
+Luis Quispe,Mini cheesecake de fresa,2024-07-21,entregado
+Andrea Alfaro,Torta de zanahoria,2024-07-22,pendiente
+Luis Quispe,Cheesecake de maracuyá,2024-07-22,pendiente
+Ana Torres,Torta de chocolate,2024-07-22,confirmado
+Pedro Castañeda,Tarta de frambuesa,2024-07-23,pendiente
+Luis Quispe,Cupcakes Red Velvet,2024-07-23,pendiente
+Andrea Alfaro,Cupcakes Red Velvet,2024-07-24,entregado
+Ana Torres,Tarta de frambuesa,2024-07-24,pendiente
+Luis Quispe,Cheesecake de maracuyá,2024-07-24,entregado
+Ana Torres,Mini cheesecake de fresa,2024-07-25,confirmado
+Luis Quispe,Tarta de frambuesa,2024-07-25,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2024-07-25,pendiente
+Carlos Huamán,Tarta de frambuesa,2024-07-25,entregado
+Ana Torres,Cupcakes Red Velvet,2024-07-25,pendiente
+Ana Torres,Mini cheesecake de fresa,2024-07-26,confirmado
+Pedro Castañeda,Torta de chocolate,2024-07-26,entregado
+Andrea Alfaro,Brownies clásicos,2024-07-26,entregado
+Lucía Ríos,Torta de zanahoria,2024-07-27,pendiente
+Ana Torres,Cupcakes Red Velvet,2024-07-27,pendiente
+Luis Quispe,Brownies clásicos,2024-07-28,confirmado
+Andrea Alfaro,Brownies clásicos,2024-07-29,pendiente
+Pedro Castañeda,Cupcakes Red Velvet,2024-07-29,pendiente
+Ana Torres,Cheesecake de maracuyá,2024-07-29,entregado
+Valeria Mena,Cupcakes Red Velvet,2024-07-30,confirmado
+Pedro Castañeda,Cupcakes Red Velvet,2024-07-31,pendiente
+Valeria Mena,Torta de chocolate,2024-07-31,entregado
+Jorge Salazar,Brownies clásicos,2024-08-01,pendiente
+Ana Torres,Torta de chocolate,2024-08-01,pendiente
+Jorge Salazar,Cupcakes Red Velvet,2024-08-01,pendiente
+Pedro Castañeda,Torta de zanahoria,2024-08-01,entregado
+Valeria Mena,Brownies clásicos,2024-08-02,pendiente
+Carlos Huamán,Brownies clásicos,2024-08-02,entregado
+Carlos Huamán,Brownies clásicos,2024-08-03,entregado
+Ana Torres,Cupcakes Red Velvet,2024-08-03,entregado
+Valeria Mena,Pie de limón,2024-08-04,confirmado
+Valeria Mena,Tarta de frambuesa,2024-08-04,entregado
+Valeria Mena,Pie de limón,2024-08-04,confirmado
+Ana Torres,Torta de zanahoria,2024-08-04,confirmado
+Valeria Mena,Torta de chocolate,2024-08-05,entregado
+Andrea Alfaro,Torta de chocolate,2024-08-05,pendiente
+Jorge Salazar,Tarta de frambuesa,2024-08-06,confirmado
+Pedro Castañeda,Cheesecake de maracuyá,2024-08-06,confirmado
+Valeria Mena,Tarta de frambuesa,2024-08-06,entregado
+Luis Quispe,Cheesecake de maracuyá,2024-08-07,entregado
+Jorge Salazar,Mini cheesecake de fresa,2024-08-07,entregado
+Jorge Salazar,Tarta de frambuesa,2024-08-07,pendiente
+Ana Torres,Brownies clásicos,2024-08-07,entregado
+Lucía Ríos,Tarta de frambuesa,2024-08-08,pendiente
+Luis Quispe,Pie de limón,2024-08-08,entregado
+Andrea Alfaro,Cupcakes Red Velvet,2024-08-08,entregado
+Andrea Alfaro,Pie de limón,2024-08-08,pendiente
+Carlos Huamán,Mini cheesecake de fresa,2024-08-08,entregado
+Valeria Mena,Pie de limón,2024-08-09,entregado
+Jorge Salazar,Mini cheesecake de fresa,2024-08-09,entregado
+Luis Quispe,Torta de zanahoria,2024-08-09,entregado
+Valeria Mena,Cheesecake de maracuyá,2024-08-09,entregado
+Ana Torres,Torta de zanahoria,2024-08-10,confirmado
+Jorge Salazar,Cheesecake de maracuyá,2024-08-10,entregado
+Carlos Huamán,Brownies clásicos,2024-08-10,confirmado
+Lucía Ríos,Pie de limón,2024-08-11,confirmado
+Lucía Ríos,Cupcakes Red Velvet,2024-08-11,entregado
+Carlos Huamán,Brownies clásicos,2024-08-12,confirmado
+Andrea Alfaro,Mini cheesecake de fresa,2024-08-12,pendiente
+Valeria Mena,Cupcakes Red Velvet,2024-08-13,entregado
+Jorge Salazar,Pie de limón,2024-08-13,confirmado
+Luis Quispe,Brownies clásicos,2024-08-13,entregado
+Carlos Huamán,Tarta de frambuesa,2024-08-14,entregado
+Andrea Alfaro,Cupcakes Red Velvet,2024-08-14,pendiente
+Andrea Alfaro,Brownies clásicos,2024-08-14,entregado
+Luis Quispe,Torta de chocolate,2024-08-14,entregado
+Luis Quispe,Torta de zanahoria,2024-08-14,pendiente
+Ana Torres,Cheesecake de maracuyá,2024-08-15,entregado
+Luis Quispe,Torta de chocolate,2024-08-15,confirmado
+Carlos Huamán,Mini cheesecake de fresa,2024-08-15,entregado
+Jorge Salazar,Cheesecake de maracuyá,2024-08-16,confirmado
+Valeria Mena,Tarta de frambuesa,2024-08-16,pendiente
+Jorge Salazar,Torta de chocolate,2024-08-16,confirmado
+Andrea Alfaro,Tarta de frambuesa,2024-08-17,entregado
+Valeria Mena,Tarta de frambuesa,2024-08-17,entregado
+Carlos Huamán,Cheesecake de maracuyá,2024-08-18,entregado
+Pedro Castañeda,Torta de zanahoria,2024-08-18,entregado
+Andrea Alfaro,Tarta de frambuesa,2024-08-18,entregado
+Luis Quispe,Mini cheesecake de fresa,2024-08-18,entregado
+Ana Torres,Cheesecake de maracuyá,2024-08-18,pendiente
+Carlos Huamán,Mini cheesecake de fresa,2024-08-19,entregado
+Andrea Alfaro,Cupcakes Red Velvet,2024-08-19,pendiente
+Valeria Mena,Mini cheesecake de fresa,2024-08-19,pendiente
+Lucía Ríos,Cheesecake de maracuyá,2024-08-19,pendiente
+Lucía Ríos,Cheesecake de maracuyá,2024-08-19,entregado
+Jorge Salazar,Torta de chocolate,2024-08-20,entregado
+Jorge Salazar,Cheesecake de maracuyá,2024-08-21,entregado
+Andrea Alfaro,Torta de zanahoria,2024-08-21,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2024-08-22,confirmado
+Ana Torres,Pie de limón,2024-08-22,pendiente
+Ana Torres,Cupcakes Red Velvet,2024-08-22,entregado
+Luis Quispe,Cupcakes Red Velvet,2024-08-23,pendiente
+Carlos Huamán,Torta de zanahoria,2024-08-23,pendiente
+Andrea Alfaro,Pie de limón,2024-08-23,confirmado
+Luis Quispe,Cupcakes Red Velvet,2024-08-23,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2024-08-24,pendiente
+Valeria Mena,Pie de limón,2024-08-24,entregado
+Valeria Mena,Torta de chocolate,2024-08-24,confirmado
+Andrea Alfaro,Brownies clásicos,2024-08-24,pendiente
+Valeria Mena,Cupcakes Red Velvet,2024-08-24,pendiente
+Ana Torres,Tarta de frambuesa,2024-08-25,confirmado
+Ana Torres,Torta de chocolate,2024-08-25,entregado
+Andrea Alfaro,Cheesecake de maracuyá,2024-08-25,confirmado
+Andrea Alfaro,Tarta de frambuesa,2024-08-25,confirmado
+Ana Torres,Cupcakes Red Velvet,2024-08-25,pendiente
+Jorge Salazar,Torta de chocolate,2024-08-26,confirmado
+Valeria Mena,Mini cheesecake de fresa,2024-08-26,confirmado
+Lucía Ríos,Cupcakes Red Velvet,2024-08-26,confirmado
+Carlos Huamán,Torta de zanahoria,2024-08-27,pendiente
+Ana Torres,Cupcakes Red Velvet,2024-08-27,confirmado
+Luis Quispe,Cheesecake de maracuyá,2024-08-27,entregado
+Luis Quispe,Cupcakes Red Velvet,2024-08-27,confirmado
+Jorge Salazar,Cupcakes Red Velvet,2024-08-27,pendiente
+Ana Torres,Torta de chocolate,2024-08-28,pendiente
+Luis Quispe,Cupcakes Red Velvet,2024-08-28,confirmado
+Pedro Castañeda,Pie de limón,2024-08-28,pendiente
+Jorge Salazar,Cupcakes Red Velvet,2024-08-28,confirmado
+Lucía Ríos,Pie de limón,2024-08-28,entregado
+Valeria Mena,Torta de chocolate,2024-08-29,pendiente
+Jorge Salazar,Brownies clásicos,2024-08-30,entregado
+Carlos Huamán,Brownies clásicos,2024-08-30,pendiente
+Ana Torres,Cupcakes Red Velvet,2024-08-31,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2024-08-31,pendiente
+Ana Torres,Brownies clásicos,2024-08-31,confirmado
+Lucía Ríos,Torta de zanahoria,2024-08-31,confirmado
+Carlos Huamán,Mini cheesecake de fresa,2024-08-31,entregado
+Valeria Mena,Mini cheesecake de fresa,2024-09-01,confirmado
+Andrea Alfaro,Tarta de frambuesa,2024-09-01,confirmado
+Luis Quispe,Torta de chocolate,2024-09-01,entregado
+Lucía Ríos,Cupcakes Red Velvet,2024-09-01,pendiente
+Luis Quispe,Cheesecake de maracuyá,2024-09-02,entregado
+Andrea Alfaro,Cheesecake de maracuyá,2024-09-02,confirmado
+Carlos Huamán,Brownies clásicos,2024-09-02,confirmado
+Pedro Castañeda,Cheesecake de maracuyá,2024-09-02,pendiente
+Valeria Mena,Cheesecake de maracuyá,2024-09-02,confirmado
+Pedro Castañeda,Tarta de frambuesa,2024-09-03,confirmado
+Ana Torres,Pie de limón,2024-09-03,entregado
+Valeria Mena,Pie de limón,2024-09-03,pendiente
+Lucía Ríos,Cheesecake de maracuyá,2024-09-03,confirmado
+Luis Quispe,Cupcakes Red Velvet,2024-09-03,confirmado
+Ana Torres,Torta de chocolate,2024-09-04,entregado
+Jorge Salazar,Pie de limón,2024-09-04,confirmado
+Jorge Salazar,Cupcakes Red Velvet,2024-09-05,entregado
+Carlos Huamán,Cupcakes Red Velvet,2024-09-06,confirmado
+Andrea Alfaro,Pie de limón,2024-09-06,confirmado
+Jorge Salazar,Mini cheesecake de fresa,2024-09-06,pendiente
+Jorge Salazar,Mini cheesecake de fresa,2024-09-06,confirmado
+Jorge Salazar,Cupcakes Red Velvet,2024-09-06,pendiente
+Pedro Castañeda,Brownies clásicos,2024-09-07,entregado
+Luis Quispe,Torta de chocolate,2024-09-07,pendiente
+Luis Quispe,Pie de limón,2024-09-07,entregado
+Pedro Castañeda,Tarta de frambuesa,2024-09-08,entregado
+Lucía Ríos,Mini cheesecake de fresa,2024-09-08,pendiente
+Pedro Castañeda,Cheesecake de maracuyá,2024-09-09,confirmado
+Pedro Castañeda,Pie de limón,2024-09-09,pendiente
+Ana Torres,Torta de chocolate,2024-09-10,entregado
+Lucía Ríos,Torta de chocolate,2024-09-10,pendiente
+Carlos Huamán,Brownies clásicos,2024-09-10,entregado
+Ana Torres,Torta de chocolate,2024-09-11,entregado
+Carlos Huamán,Brownies clásicos,2024-09-11,pendiente
+Lucía Ríos,Cheesecake de maracuyá,2024-09-12,entregado
+Jorge Salazar,Mini cheesecake de fresa,2024-09-12,confirmado
+Valeria Mena,Cheesecake de maracuyá,2024-09-12,pendiente
+Andrea Alfaro,Torta de chocolate,2024-09-13,confirmado
+Jorge Salazar,Cupcakes Red Velvet,2024-09-13,confirmado
+Ana Torres,Tarta de frambuesa,2024-09-13,confirmado
+Carlos Huamán,Torta de zanahoria,2024-09-14,entregado
+Valeria Mena,Cheesecake de maracuyá,2024-09-15,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2024-09-15,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2024-09-16,pendiente
+Lucía Ríos,Pie de limón,2024-09-16,entregado
+Carlos Huamán,Cupcakes Red Velvet,2024-09-16,pendiente
+Carlos Huamán,Tarta de frambuesa,2024-09-16,confirmado
+Luis Quispe,Pie de limón,2024-09-17,entregado
+Valeria Mena,Brownies clásicos,2024-09-17,pendiente
+Luis Quispe,Torta de zanahoria,2024-09-17,pendiente
+Carlos Huamán,Brownies clásicos,2024-09-17,confirmado
+Carlos Huamán,Pie de limón,2024-09-17,pendiente
+Valeria Mena,Brownies clásicos,2024-09-18,entregado
+Carlos Huamán,Pie de limón,2024-09-18,confirmado
+Ana Torres,Pie de limón,2024-09-18,pendiente
+Luis Quispe,Brownies clásicos,2024-09-19,entregado
+Luis Quispe,Brownies clásicos,2024-09-19,pendiente
+Valeria Mena,Cupcakes Red Velvet,2024-09-20,entregado
+Ana Torres,Mini cheesecake de fresa,2024-09-20,confirmado
+Lucía Ríos,Torta de zanahoria,2024-09-21,pendiente
+Ana Torres,Torta de zanahoria,2024-09-22,pendiente
+Luis Quispe,Pie de limón,2024-09-22,confirmado
+Jorge Salazar,Torta de zanahoria,2024-09-22,pendiente
+Pedro Castañeda,Cheesecake de maracuyá,2024-09-23,entregado
+Lucía Ríos,Pie de limón,2024-09-23,pendiente
+Carlos Huamán,Torta de chocolate,2024-09-23,entregado
+Lucía Ríos,Torta de chocolate,2024-09-24,entregado
+Ana Torres,Torta de zanahoria,2024-09-24,confirmado
+Ana Torres,Cheesecake de maracuyá,2024-09-24,pendiente
+Jorge Salazar,Torta de zanahoria,2024-09-25,entregado
+Lucía Ríos,Tarta de frambuesa,2024-09-25,pendiente
+Lucía Ríos,Torta de zanahoria,2024-09-25,entregado
+Jorge Salazar,Torta de zanahoria,2024-09-25,pendiente
+Lucía Ríos,Cheesecake de maracuyá,2024-09-26,entregado
+Pedro Castañeda,Torta de chocolate,2024-09-26,confirmado
+Lucía Ríos,Torta de zanahoria,2024-09-27,pendiente
+Lucía Ríos,Torta de zanahoria,2024-09-27,pendiente
+Ana Torres,Mini cheesecake de fresa,2024-09-27,entregado
+Andrea Alfaro,Tarta de frambuesa,2024-09-27,confirmado
+Carlos Huamán,Pie de limón,2024-09-28,pendiente
+Ana Torres,Cheesecake de maracuyá,2024-09-29,entregado
+Andrea Alfaro,Torta de chocolate,2024-09-29,entregado
+Ana Torres,Torta de chocolate,2024-09-29,pendiente
+Jorge Salazar,Cheesecake de maracuyá,2024-09-30,entregado
+Jorge Salazar,Cupcakes Red Velvet,2024-09-30,entregado
+Carlos Huamán,Torta de zanahoria,2024-09-30,pendiente
+Andrea Alfaro,Torta de chocolate,2024-10-01,pendiente
+Carlos Huamán,Torta de zanahoria,2024-10-01,confirmado
+Luis Quispe,Tarta de frambuesa,2024-10-01,pendiente
+Valeria Mena,Cheesecake de maracuyá,2024-10-02,pendiente
+Pedro Castañeda,Brownies clásicos,2024-10-02,confirmado
+Lucía Ríos,Torta de chocolate,2024-10-02,pendiente
+Jorge Salazar,Brownies clásicos,2024-10-02,confirmado
+Jorge Salazar,Brownies clásicos,2024-10-02,pendiente
+Andrea Alfaro,Tarta de frambuesa,2024-10-03,entregado
+Pedro Castañeda,Pie de limón,2024-10-03,confirmado
+Carlos Huamán,Torta de chocolate,2024-10-03,pendiente
+Ana Torres,Torta de chocolate,2024-10-04,entregado
+Andrea Alfaro,Tarta de frambuesa,2024-10-05,confirmado
+Andrea Alfaro,Mini cheesecake de fresa,2024-10-05,pendiente
+Luis Quispe,Cheesecake de maracuyá,2024-10-05,entregado
+Pedro Castañeda,Pie de limón,2024-10-05,pendiente
+Jorge Salazar,Tarta de frambuesa,2024-10-06,confirmado
+Jorge Salazar,Cheesecake de maracuyá,2024-10-07,entregado
+Lucía Ríos,Tarta de frambuesa,2024-10-08,pendiente
+Valeria Mena,Cheesecake de maracuyá,2024-10-08,confirmado
+Ana Torres,Torta de zanahoria,2024-10-09,pendiente
+Ana Torres,Cupcakes Red Velvet,2024-10-10,confirmado
+Valeria Mena,Cupcakes Red Velvet,2024-10-10,confirmado
+Pedro Castañeda,Tarta de frambuesa,2024-10-11,confirmado
+Valeria Mena,Pie de limón,2024-10-11,pendiente
+Jorge Salazar,Pie de limón,2024-10-11,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2024-10-12,pendiente
+Valeria Mena,Cupcakes Red Velvet,2024-10-12,pendiente
+Pedro Castañeda,Torta de chocolate,2024-10-13,entregado
+Jorge Salazar,Pie de limón,2024-10-13,confirmado
+Valeria Mena,Torta de zanahoria,2024-10-13,pendiente
+Lucía Ríos,Brownies clásicos,2024-10-13,pendiente
+Jorge Salazar,Tarta de frambuesa,2024-10-13,confirmado
+Jorge Salazar,Torta de chocolate,2024-10-14,pendiente
+Luis Quispe,Torta de chocolate,2024-10-14,confirmado
+Luis Quispe,Tarta de frambuesa,2024-10-15,confirmado
+Carlos Huamán,Pie de limón,2024-10-15,pendiente
+Andrea Alfaro,Torta de zanahoria,2024-10-15,confirmado
+Luis Quispe,Cheesecake de maracuyá,2024-10-15,pendiente
+Valeria Mena,Brownies clásicos,2024-10-16,entregado
+Valeria Mena,Tarta de frambuesa,2024-10-16,pendiente
+Luis Quispe,Brownies clásicos,2024-10-17,confirmado
+Andrea Alfaro,Brownies clásicos,2024-10-18,confirmado
+Carlos Huamán,Tarta de frambuesa,2024-10-18,entregado
+Andrea Alfaro,Torta de zanahoria,2024-10-18,pendiente
+Pedro Castañeda,Mini cheesecake de fresa,2024-10-18,pendiente
+Jorge Salazar,Torta de zanahoria,2024-10-18,pendiente
+Lucía Ríos,Torta de chocolate,2024-10-19,pendiente
+Ana Torres,Cupcakes Red Velvet,2024-10-19,confirmado
+Carlos Huamán,Tarta de frambuesa,2024-10-19,confirmado
+Valeria Mena,Torta de zanahoria,2024-10-19,confirmado
+Pedro Castañeda,Brownies clásicos,2024-10-19,entregado
+Luis Quispe,Pie de limón,2024-10-20,entregado
+Valeria Mena,Cheesecake de maracuyá,2024-10-21,pendiente
+Jorge Salazar,Brownies clásicos,2024-10-21,entregado
+Lucía Ríos,Torta de zanahoria,2024-10-21,entregado
+Jorge Salazar,Mini cheesecake de fresa,2024-10-22,confirmado
+Luis Quispe,Torta de chocolate,2024-10-22,confirmado
+Valeria Mena,Cheesecake de maracuyá,2024-10-23,entregado
+Ana Torres,Pie de limón,2024-10-23,pendiente
+Pedro Castañeda,Brownies clásicos,2024-10-23,confirmado
+Luis Quispe,Mini cheesecake de fresa,2024-10-24,confirmado
+Carlos Huamán,Torta de chocolate,2024-10-25,confirmado
+Andrea Alfaro,Cheesecake de maracuyá,2024-10-25,pendiente
+Jorge Salazar,Torta de zanahoria,2024-10-25,entregado
+Ana Torres,Cupcakes Red Velvet,2024-10-26,entregado
+Andrea Alfaro,Torta de zanahoria,2024-10-26,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2024-10-27,entregado
+Luis Quispe,Cupcakes Red Velvet,2024-10-27,pendiente
+Andrea Alfaro,Torta de chocolate,2024-10-27,entregado
+Valeria Mena,Tarta de frambuesa,2024-10-27,entregado
+Ana Torres,Torta de chocolate,2024-10-27,confirmado
+Carlos Huamán,Torta de zanahoria,2024-10-28,pendiente
+Valeria Mena,Mini cheesecake de fresa,2024-10-29,entregado
+Luis Quispe,Brownies clásicos,2024-10-29,confirmado
+Pedro Castañeda,Torta de chocolate,2024-10-29,pendiente
+Jorge Salazar,Torta de zanahoria,2024-10-29,pendiente
+Luis Quispe,Torta de chocolate,2024-10-29,confirmado
+Luis Quispe,Torta de zanahoria,2024-10-30,pendiente
+Carlos Huamán,Torta de zanahoria,2024-10-30,pendiente
+Luis Quispe,Torta de zanahoria,2024-10-30,entregado
+Andrea Alfaro,Torta de chocolate,2024-10-31,pendiente
+Pedro Castañeda,Cheesecake de maracuyá,2024-10-31,confirmado
+Jorge Salazar,Mini cheesecake de fresa,2024-10-31,pendiente
+Lucía Ríos,Brownies clásicos,2024-10-31,pendiente
+Pedro Castañeda,Torta de chocolate,2024-10-31,entregado
+Pedro Castañeda,Mini cheesecake de fresa,2024-11-01,pendiente
+Jorge Salazar,Pie de limón,2024-11-02,entregado
+Lucía Ríos,Pie de limón,2024-11-02,entregado
+Valeria Mena,Mini cheesecake de fresa,2024-11-03,confirmado
+Luis Quispe,Mini cheesecake de fresa,2024-11-03,entregado
+Andrea Alfaro,Cheesecake de maracuyá,2024-11-03,entregado
+Andrea Alfaro,Torta de zanahoria,2024-11-03,confirmado
+Andrea Alfaro,Cupcakes Red Velvet,2024-11-04,pendiente
+Carlos Huamán,Mini cheesecake de fresa,2024-11-04,entregado
+Lucía Ríos,Cheesecake de maracuyá,2024-11-05,pendiente
+Andrea Alfaro,Tarta de frambuesa,2024-11-06,confirmado
+Valeria Mena,Tarta de frambuesa,2024-11-06,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2024-11-06,entregado
+Luis Quispe,Cupcakes Red Velvet,2024-11-06,pendiente
+Lucía Ríos,Tarta de frambuesa,2024-11-07,pendiente
+Luis Quispe,Pie de limón,2024-11-07,entregado
+Andrea Alfaro,Mini cheesecake de fresa,2024-11-07,confirmado
+Andrea Alfaro,Torta de chocolate,2024-11-08,entregado
+Valeria Mena,Tarta de frambuesa,2024-11-08,pendiente
+Pedro Castañeda,Mini cheesecake de fresa,2024-11-08,pendiente
+Andrea Alfaro,Torta de zanahoria,2024-11-09,entregado
+Andrea Alfaro,Torta de chocolate,2024-11-09,confirmado
+Andrea Alfaro,Mini cheesecake de fresa,2024-11-09,entregado
+Andrea Alfaro,Cupcakes Red Velvet,2024-11-09,confirmado
+Valeria Mena,Tarta de frambuesa,2024-11-09,entregado
+Jorge Salazar,Brownies clásicos,2024-11-10,confirmado
+Carlos Huamán,Brownies clásicos,2024-11-10,confirmado
+Ana Torres,Cupcakes Red Velvet,2024-11-10,entregado
+Ana Torres,Torta de zanahoria,2024-11-11,pendiente
+Ana Torres,Torta de zanahoria,2024-11-11,pendiente
+Ana Torres,Torta de zanahoria,2024-11-11,confirmado
+Luis Quispe,Pie de limón,2024-11-11,confirmado
+Andrea Alfaro,Torta de zanahoria,2024-11-12,entregado
+Pedro Castañeda,Brownies clásicos,2024-11-12,pendiente
+Ana Torres,Tarta de frambuesa,2024-11-12,confirmado
+Pedro Castañeda,Tarta de frambuesa,2024-11-12,entregado
+Ana Torres,Cheesecake de maracuyá,2024-11-13,entregado
+Carlos Huamán,Cupcakes Red Velvet,2024-11-13,pendiente
+Luis Quispe,Pie de limón,2024-11-13,pendiente
+Jorge Salazar,Tarta de frambuesa,2024-11-13,confirmado
+Andrea Alfaro,Brownies clásicos,2024-11-13,entregado
+Valeria Mena,Torta de zanahoria,2024-11-14,pendiente
+Ana Torres,Mini cheesecake de fresa,2024-11-14,pendiente
+Luis Quispe,Brownies clásicos,2024-11-14,confirmado
+Ana Torres,Pie de limón,2024-11-14,entregado
+Jorge Salazar,Torta de zanahoria,2024-11-14,pendiente
+Pedro Castañeda,Cupcakes Red Velvet,2024-11-15,confirmado
+Pedro Castañeda,Torta de chocolate,2024-11-15,confirmado
+Carlos Huamán,Mini cheesecake de fresa,2024-11-16,entregado
+Luis Quispe,Mini cheesecake de fresa,2024-11-17,entregado
+Andrea Alfaro,Mini cheesecake de fresa,2024-11-17,confirmado
+Pedro Castañeda,Brownies clásicos,2024-11-17,entregado
+Valeria Mena,Cupcakes Red Velvet,2024-11-17,entregado
+Luis Quispe,Cupcakes Red Velvet,2024-11-18,entregado
+Carlos Huamán,Cupcakes Red Velvet,2024-11-18,entregado
+Luis Quispe,Cheesecake de maracuyá,2024-11-19,pendiente
+Luis Quispe,Torta de zanahoria,2024-11-19,pendiente
+Valeria Mena,Cheesecake de maracuyá,2024-11-19,entregado
+Valeria Mena,Torta de zanahoria,2024-11-19,pendiente
+Jorge Salazar,Tarta de frambuesa,2024-11-19,pendiente
+Carlos Huamán,Tarta de frambuesa,2024-11-20,confirmado
+Andrea Alfaro,Torta de chocolate,2024-11-20,entregado
+Valeria Mena,Torta de zanahoria,2024-11-20,entregado
+Carlos Huamán,Brownies clásicos,2024-11-21,entregado
+Carlos Huamán,Brownies clásicos,2024-11-21,entregado
+Pedro Castañeda,Torta de zanahoria,2024-11-22,entregado
+Andrea Alfaro,Brownies clásicos,2024-11-22,pendiente
+Jorge Salazar,Torta de zanahoria,2024-11-22,confirmado
+Luis Quispe,Brownies clásicos,2024-11-23,confirmado
+Jorge Salazar,Mini cheesecake de fresa,2024-11-23,pendiente
+Carlos Huamán,Pie de limón,2024-11-23,entregado
+Andrea Alfaro,Torta de chocolate,2024-11-24,confirmado
+Ana Torres,Cheesecake de maracuyá,2024-11-24,pendiente
+Jorge Salazar,Brownies clásicos,2024-11-24,pendiente
+Pedro Castañeda,Brownies clásicos,2024-11-24,confirmado
+Valeria Mena,Tarta de frambuesa,2024-11-25,pendiente
+Carlos Huamán,Pie de limón,2024-11-25,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2024-11-26,pendiente
+Pedro Castañeda,Mini cheesecake de fresa,2024-11-27,entregado
+Andrea Alfaro,Torta de zanahoria,2024-11-28,pendiente
+Lucía Ríos,Pie de limón,2024-11-28,entregado
+Carlos Huamán,Brownies clásicos,2024-11-28,pendiente
+Lucía Ríos,Torta de chocolate,2024-11-28,pendiente
+Carlos Huamán,Pie de limón,2024-11-28,entregado
+Ana Torres,Cheesecake de maracuyá,2024-11-29,confirmado
+Ana Torres,Mini cheesecake de fresa,2024-11-30,confirmado
+Jorge Salazar,Cheesecake de maracuyá,2024-11-30,pendiente
+Jorge Salazar,Tarta de frambuesa,2024-12-01,pendiente
+Pedro Castañeda,Cheesecake de maracuyá,2024-12-02,pendiente
+Valeria Mena,Mini cheesecake de fresa,2024-12-02,pendiente
+Andrea Alfaro,Cupcakes Red Velvet,2024-12-02,confirmado
+Valeria Mena,Pie de limón,2024-12-03,pendiente
+Carlos Huamán,Cupcakes Red Velvet,2024-12-04,pendiente
+Luis Quispe,Cheesecake de maracuyá,2024-12-04,entregado
+Andrea Alfaro,Mini cheesecake de fresa,2024-12-04,pendiente
+Carlos Huamán,Cupcakes Red Velvet,2024-12-04,confirmado
+Carlos Huamán,Torta de zanahoria,2024-12-04,confirmado
+Ana Torres,Pie de limón,2024-12-05,entregado
+Andrea Alfaro,Torta de chocolate,2024-12-05,entregado
+Luis Quispe,Pie de limón,2024-12-05,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2024-12-05,entregado
+Jorge Salazar,Torta de chocolate,2024-12-06,entregado
+Andrea Alfaro,Torta de chocolate,2024-12-06,confirmado
+Jorge Salazar,Cupcakes Red Velvet,2024-12-07,pendiente
+Lucía Ríos,Cheesecake de maracuyá,2024-12-07,pendiente
+Pedro Castañeda,Brownies clásicos,2024-12-07,confirmado
+Ana Torres,Brownies clásicos,2024-12-07,entregado
+Luis Quispe,Cheesecake de maracuyá,2024-12-07,entregado
+Ana Torres,Torta de zanahoria,2024-12-08,pendiente
+Carlos Huamán,Torta de zanahoria,2024-12-08,entregado
+Lucía Ríos,Torta de chocolate,2024-12-08,entregado
+Andrea Alfaro,Brownies clásicos,2024-12-09,entregado
+Andrea Alfaro,Torta de chocolate,2024-12-09,pendiente
+Andrea Alfaro,Brownies clásicos,2024-12-09,entregado
+Ana Torres,Mini cheesecake de fresa,2024-12-09,entregado
+Jorge Salazar,Tarta de frambuesa,2024-12-10,entregado
+Lucía Ríos,Tarta de frambuesa,2024-12-10,confirmado
+Pedro Castañeda,Torta de zanahoria,2024-12-10,pendiente
+Lucía Ríos,Tarta de frambuesa,2024-12-10,pendiente
+Luis Quispe,Brownies clásicos,2024-12-10,confirmado
+Luis Quispe,Tarta de frambuesa,2024-12-11,entregado
+Andrea Alfaro,Torta de chocolate,2024-12-11,pendiente
+Ana Torres,Torta de zanahoria,2024-12-11,pendiente
+Valeria Mena,Cheesecake de maracuyá,2024-12-11,entregado
+Andrea Alfaro,Brownies clásicos,2024-12-11,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2024-12-12,confirmado
+Lucía Ríos,Brownies clásicos,2024-12-12,confirmado
+Pedro Castañeda,Pie de limón,2024-12-12,entregado
+Luis Quispe,Torta de zanahoria,2024-12-13,entregado
+Lucía Ríos,Torta de chocolate,2024-12-14,entregado
+Carlos Huamán,Brownies clásicos,2024-12-14,pendiente
+Ana Torres,Brownies clásicos,2024-12-15,confirmado
+Lucía Ríos,Torta de zanahoria,2024-12-15,entregado
+Jorge Salazar,Torta de chocolate,2024-12-15,confirmado
+Valeria Mena,Mini cheesecake de fresa,2024-12-15,pendiente
+Valeria Mena,Brownies clásicos,2024-12-15,confirmado
+Lucía Ríos,Cheesecake de maracuyá,2024-12-16,confirmado
+Lucía Ríos,Torta de zanahoria,2024-12-16,confirmado
+Lucía Ríos,Cupcakes Red Velvet,2024-12-17,confirmado
+Ana Torres,Brownies clásicos,2024-12-17,confirmado
+Pedro Castañeda,Cupcakes Red Velvet,2024-12-17,pendiente
+Jorge Salazar,Mini cheesecake de fresa,2024-12-18,confirmado
+Andrea Alfaro,Cheesecake de maracuyá,2024-12-18,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2024-12-19,confirmado
+Carlos Huamán,Brownies clásicos,2024-12-19,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2024-12-19,confirmado
+Valeria Mena,Brownies clásicos,2024-12-19,entregado
+Lucía Ríos,Tarta de frambuesa,2024-12-20,pendiente
+Jorge Salazar,Tarta de frambuesa,2024-12-20,confirmado
+Valeria Mena,Torta de chocolate,2024-12-20,entregado
+Luis Quispe,Mini cheesecake de fresa,2024-12-20,confirmado
+Ana Torres,Cheesecake de maracuyá,2024-12-21,confirmado
+Luis Quispe,Cupcakes Red Velvet,2024-12-21,pendiente
+Jorge Salazar,Torta de chocolate,2024-12-21,entregado
+Andrea Alfaro,Brownies clásicos,2024-12-21,pendiente
+Andrea Alfaro,Brownies clásicos,2024-12-21,entregado
+Pedro Castañeda,Mini cheesecake de fresa,2024-12-22,pendiente
+Ana Torres,Cheesecake de maracuyá,2024-12-22,entregado
+Jorge Salazar,Tarta de frambuesa,2024-12-22,pendiente
+Valeria Mena,Torta de zanahoria,2024-12-22,pendiente
+Pedro Castañeda,Brownies clásicos,2024-12-22,pendiente
+Pedro Castañeda,Cheesecake de maracuyá,2024-12-23,pendiente
+Andrea Alfaro,Mini cheesecake de fresa,2024-12-23,entregado
+Andrea Alfaro,Brownies clásicos,2024-12-23,entregado
+Pedro Castañeda,Pie de limón,2024-12-24,confirmado
+Ana Torres,Torta de zanahoria,2024-12-24,entregado
+Ana Torres,Cupcakes Red Velvet,2024-12-24,confirmado
+Pedro Castañeda,Torta de chocolate,2024-12-24,pendiente
+Lucía Ríos,Brownies clásicos,2024-12-24,entregado
+Ana Torres,Mini cheesecake de fresa,2024-12-25,entregado
+Luis Quispe,Torta de chocolate,2024-12-26,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2024-12-27,confirmado
+Andrea Alfaro,Torta de chocolate,2024-12-27,confirmado
+Pedro Castañeda,Brownies clásicos,2024-12-27,pendiente
+Jorge Salazar,Cheesecake de maracuyá,2024-12-27,confirmado
+Jorge Salazar,Mini cheesecake de fresa,2024-12-27,pendiente
+Pedro Castañeda,Brownies clásicos,2024-12-28,pendiente
+Lucía Ríos,Pie de limón,2024-12-28,pendiente
+Ana Torres,Torta de zanahoria,2024-12-28,pendiente
+Carlos Huamán,Cupcakes Red Velvet,2024-12-28,pendiente
+Ana Torres,Pie de limón,2024-12-29,pendiente
+Ana Torres,Pie de limón,2024-12-29,pendiente
+Luis Quispe,Cheesecake de maracuyá,2024-12-30,pendiente
+Ana Torres,Pie de limón,2024-12-30,pendiente
+Luis Quispe,Tarta de frambuesa,2024-12-30,entregado
+Lucía Ríos,Tarta de frambuesa,2024-12-30,pendiente
+Jorge Salazar,Tarta de frambuesa,2024-12-31,confirmado
+Carlos Huamán,Pie de limón,2024-12-31,confirmado
+Lucía Ríos,Pie de limón,2025-01-01,confirmado
+Ana Torres,Pie de limón,2025-01-01,pendiente
+Carlos Huamán,Cheesecake de maracuyá,2025-01-01,pendiente
+Pedro Castañeda,Brownies clásicos,2025-01-01,confirmado
+Andrea Alfaro,Torta de zanahoria,2025-01-01,entregado
+Lucía Ríos,Mini cheesecake de fresa,2025-01-02,pendiente
+Jorge Salazar,Torta de chocolate,2025-01-02,entregado
+Andrea Alfaro,Brownies clásicos,2025-01-02,confirmado
+Valeria Mena,Mini cheesecake de fresa,2025-01-02,entregado
+Lucía Ríos,Pie de limón,2025-01-02,entregado
+Lucía Ríos,Torta de chocolate,2025-01-03,pendiente
+Ana Torres,Torta de chocolate,2025-01-03,pendiente
+Valeria Mena,Brownies clásicos,2025-01-04,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2025-01-04,pendiente
+Valeria Mena,Torta de chocolate,2025-01-04,confirmado
+Lucía Ríos,Cheesecake de maracuyá,2025-01-05,pendiente
+Carlos Huamán,Pie de limón,2025-01-05,entregado
+Andrea Alfaro,Tarta de frambuesa,2025-01-06,entregado
+Valeria Mena,Tarta de frambuesa,2025-01-07,confirmado
+Carlos Huamán,Cheesecake de maracuyá,2025-01-07,entregado
+Andrea Alfaro,Torta de chocolate,2025-01-08,confirmado
+Ana Torres,Torta de chocolate,2025-01-08,pendiente
+Andrea Alfaro,Pie de limón,2025-01-08,confirmado
+Jorge Salazar,Cheesecake de maracuyá,2025-01-09,pendiente
+Pedro Castañeda,Tarta de frambuesa,2025-01-09,confirmado
+Jorge Salazar,Cheesecake de maracuyá,2025-01-09,pendiente
+Lucía Ríos,Tarta de frambuesa,2025-01-09,entregado
+Carlos Huamán,Pie de limón,2025-01-09,pendiente
+Ana Torres,Cheesecake de maracuyá,2025-01-10,pendiente
+Carlos Huamán,Torta de chocolate,2025-01-10,entregado
+Lucía Ríos,Mini cheesecake de fresa,2025-01-11,pendiente
+Jorge Salazar,Mini cheesecake de fresa,2025-01-11,confirmado
+Valeria Mena,Cheesecake de maracuyá,2025-01-12,pendiente
+Luis Quispe,Torta de chocolate,2025-01-12,entregado
+Carlos Huamán,Torta de chocolate,2025-01-12,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2025-01-12,pendiente
+Luis Quispe,Cheesecake de maracuyá,2025-01-13,entregado
+Ana Torres,Cupcakes Red Velvet,2025-01-13,pendiente
+Ana Torres,Torta de zanahoria,2025-01-13,pendiente
+Pedro Castañeda,Mini cheesecake de fresa,2025-01-14,entregado
+Jorge Salazar,Cupcakes Red Velvet,2025-01-14,entregado
+Ana Torres,Tarta de frambuesa,2025-01-15,pendiente
+Luis Quispe,Tarta de frambuesa,2025-01-15,entregado
+Lucía Ríos,Torta de chocolate,2025-01-16,confirmado
+Valeria Mena,Cupcakes Red Velvet,2025-01-16,pendiente
+Lucía Ríos,Brownies clásicos,2025-01-16,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2025-01-16,pendiente
+Jorge Salazar,Tarta de frambuesa,2025-01-17,pendiente
+Ana Torres,Cupcakes Red Velvet,2025-01-18,confirmado
+Pedro Castañeda,Pie de limón,2025-01-18,pendiente
+Luis Quispe,Torta de zanahoria,2025-01-18,entregado
+Valeria Mena,Pie de limón,2025-01-18,pendiente
+Jorge Salazar,Torta de chocolate,2025-01-18,confirmado
+Valeria Mena,Brownies clásicos,2025-01-19,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2025-01-19,pendiente
+Andrea Alfaro,Torta de zanahoria,2025-01-20,entregado
+Lucía Ríos,Cupcakes Red Velvet,2025-01-20,entregado
+Luis Quispe,Torta de zanahoria,2025-01-21,entregado
+Pedro Castañeda,Pie de limón,2025-01-21,entregado
+Luis Quispe,Cupcakes Red Velvet,2025-01-21,entregado
+Ana Torres,Pie de limón,2025-01-21,pendiente
+Lucía Ríos,Cheesecake de maracuyá,2025-01-22,entregado
+Pedro Castañeda,Pie de limón,2025-01-22,entregado
+Carlos Huamán,Torta de zanahoria,2025-01-22,entregado
+Carlos Huamán,Torta de zanahoria,2025-01-22,entregado
+Pedro Castañeda,Torta de zanahoria,2025-01-23,pendiente
+Andrea Alfaro,Brownies clásicos,2025-01-23,pendiente
+Pedro Castañeda,Cheesecake de maracuyá,2025-01-23,confirmado
+Andrea Alfaro,Cupcakes Red Velvet,2025-01-24,pendiente
+Carlos Huamán,Tarta de frambuesa,2025-01-24,confirmado
+Luis Quispe,Cupcakes Red Velvet,2025-01-24,entregado
+Carlos Huamán,Cheesecake de maracuyá,2025-01-25,entregado
+Luis Quispe,Cheesecake de maracuyá,2025-01-26,confirmado
+Carlos Huamán,Tarta de frambuesa,2025-01-26,pendiente
+Jorge Salazar,Torta de zanahoria,2025-01-26,pendiente
+Lucía Ríos,Torta de chocolate,2025-01-26,pendiente
+Jorge Salazar,Torta de zanahoria,2025-01-27,confirmado
+Jorge Salazar,Torta de chocolate,2025-01-27,confirmado
+Lucía Ríos,Pie de limón,2025-01-27,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2025-01-27,pendiente
+Ana Torres,Cupcakes Red Velvet,2025-01-27,entregado
+Pedro Castañeda,Cupcakes Red Velvet,2025-01-28,entregado
+Valeria Mena,Pie de limón,2025-01-28,pendiente
+Pedro Castañeda,Brownies clásicos,2025-01-28,confirmado
+Jorge Salazar,Cupcakes Red Velvet,2025-01-28,entregado
+Andrea Alfaro,Pie de limón,2025-01-29,confirmado
+Jorge Salazar,Torta de chocolate,2025-01-30,confirmado
+Luis Quispe,Torta de zanahoria,2025-01-30,pendiente
+Jorge Salazar,Mini cheesecake de fresa,2025-01-31,entregado
+Jorge Salazar,Brownies clásicos,2025-01-31,entregado
+Ana Torres,Torta de chocolate,2025-01-31,entregado
+Luis Quispe,Brownies clásicos,2025-01-31,confirmado
+Jorge Salazar,Mini cheesecake de fresa,2025-02-01,entregado
+Valeria Mena,Cupcakes Red Velvet,2025-02-01,confirmado
+Andrea Alfaro,Tarta de frambuesa,2025-02-01,pendiente
+Carlos Huamán,Torta de zanahoria,2025-02-01,confirmado
+Andrea Alfaro,Torta de chocolate,2025-02-02,confirmado
+Luis Quispe,Cheesecake de maracuyá,2025-02-03,pendiente
+Carlos Huamán,Mini cheesecake de fresa,2025-02-04,confirmado
+Lucía Ríos,Torta de chocolate,2025-02-04,entregado
+Luis Quispe,Torta de zanahoria,2025-02-04,pendiente
+Lucía Ríos,Pie de limón,2025-02-04,pendiente
+Luis Quispe,Pie de limón,2025-02-05,pendiente
+Carlos Huamán,Mini cheesecake de fresa,2025-02-05,entregado
+Andrea Alfaro,Cupcakes Red Velvet,2025-02-05,pendiente
+Carlos Huamán,Cheesecake de maracuyá,2025-02-05,pendiente
+Pedro Castañeda,Tarta de frambuesa,2025-02-06,pendiente
+Valeria Mena,Torta de chocolate,2025-02-06,entregado
+Lucía Ríos,Cheesecake de maracuyá,2025-02-07,confirmado
+Carlos Huamán,Pie de limón,2025-02-07,pendiente
+Luis Quispe,Tarta de frambuesa,2025-02-07,pendiente
+Valeria Mena,Pie de limón,2025-02-08,entregado
+Carlos Huamán,Mini cheesecake de fresa,2025-02-08,entregado
+Luis Quispe,Torta de zanahoria,2025-02-08,confirmado
+Carlos Huamán,Brownies clásicos,2025-02-08,entregado
+Ana Torres,Cupcakes Red Velvet,2025-02-08,pendiente
+Jorge Salazar,Cupcakes Red Velvet,2025-02-09,pendiente
+Luis Quispe,Tarta de frambuesa,2025-02-09,entregado
+Andrea Alfaro,Torta de zanahoria,2025-02-09,confirmado
+Valeria Mena,Cupcakes Red Velvet,2025-02-09,pendiente
+Lucía Ríos,Cheesecake de maracuyá,2025-02-09,entregado
+Ana Torres,Cheesecake de maracuyá,2025-02-10,pendiente
+Lucía Ríos,Torta de chocolate,2025-02-10,pendiente
+Carlos Huamán,Torta de chocolate,2025-02-10,confirmado
+Andrea Alfaro,Brownies clásicos,2025-02-10,confirmado
+Valeria Mena,Cupcakes Red Velvet,2025-02-10,confirmado
+Carlos Huamán,Tarta de frambuesa,2025-02-11,pendiente
+Carlos Huamán,Tarta de frambuesa,2025-02-11,entregado
+Andrea Alfaro,Pie de limón,2025-02-11,confirmado
+Ana Torres,Mini cheesecake de fresa,2025-02-11,confirmado
+Ana Torres,Cupcakes Red Velvet,2025-02-12,confirmado
+Lucía Ríos,Cheesecake de maracuyá,2025-02-12,confirmado
+Carlos Huamán,Torta de zanahoria,2025-02-12,pendiente
+Ana Torres,Torta de chocolate,2025-02-12,confirmado
+Pedro Castañeda,Pie de limón,2025-02-13,confirmado
+Pedro Castañeda,Torta de zanahoria,2025-02-14,entregado
+Ana Torres,Torta de zanahoria,2025-02-14,confirmado
+Valeria Mena,Torta de zanahoria,2025-02-14,entregado
+Andrea Alfaro,Tarta de frambuesa,2025-02-14,confirmado
+Ana Torres,Pie de limón,2025-02-14,confirmado
+Luis Quispe,Torta de chocolate,2025-02-15,entregado
+Carlos Huamán,Pie de limón,2025-02-15,confirmado
+Pedro Castañeda,Cheesecake de maracuyá,2025-02-15,pendiente
+Luis Quispe,Tarta de frambuesa,2025-02-15,confirmado
+Ana Torres,Tarta de frambuesa,2025-02-16,pendiente
+Pedro Castañeda,Cheesecake de maracuyá,2025-02-17,confirmado
+Valeria Mena,Torta de chocolate,2025-02-18,pendiente
+Andrea Alfaro,Cupcakes Red Velvet,2025-02-18,pendiente
+Luis Quispe,Torta de zanahoria,2025-02-19,entregado
+Pedro Castañeda,Cupcakes Red Velvet,2025-02-19,confirmado
+Lucía Ríos,Torta de zanahoria,2025-02-19,confirmado
+Valeria Mena,Pie de limón,2025-02-19,entregado
+Luis Quispe,Tarta de frambuesa,2025-02-20,pendiente
+Jorge Salazar,Cheesecake de maracuyá,2025-02-20,confirmado
+Lucía Ríos,Tarta de frambuesa,2025-02-20,entregado
+Valeria Mena,Pie de limón,2025-02-20,pendiente
+Carlos Huamán,Pie de limón,2025-02-21,entregado
+Luis Quispe,Torta de zanahoria,2025-02-22,entregado
+Andrea Alfaro,Tarta de frambuesa,2025-02-22,confirmado
+Luis Quispe,Torta de chocolate,2025-02-22,confirmado
+Pedro Castañeda,Pie de limón,2025-02-22,entregado
+Luis Quispe,Torta de chocolate,2025-02-22,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2025-02-23,pendiente
+Lucía Ríos,Pie de limón,2025-02-23,entregado
+Carlos Huamán,Mini cheesecake de fresa,2025-02-23,confirmado
+Jorge Salazar,Brownies clásicos,2025-02-23,entregado
+Luis Quispe,Torta de chocolate,2025-02-24,confirmado
+Lucía Ríos,Mini cheesecake de fresa,2025-02-24,confirmado
+Jorge Salazar,Cupcakes Red Velvet,2025-02-24,pendiente
+Carlos Huamán,Cheesecake de maracuyá,2025-02-25,confirmado
+Ana Torres,Mini cheesecake de fresa,2025-02-25,confirmado
+Carlos Huamán,Brownies clásicos,2025-02-26,pendiente
+Jorge Salazar,Cupcakes Red Velvet,2025-02-26,pendiente
+Andrea Alfaro,Cupcakes Red Velvet,2025-02-26,confirmado
+Andrea Alfaro,Tarta de frambuesa,2025-02-26,pendiente
+Ana Torres,Pie de limón,2025-02-26,confirmado
+Andrea Alfaro,Cupcakes Red Velvet,2025-02-27,confirmado
+Andrea Alfaro,Brownies clásicos,2025-02-28,entregado
+Andrea Alfaro,Mini cheesecake de fresa,2025-02-28,confirmado
+Valeria Mena,Cupcakes Red Velvet,2025-02-28,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2025-03-01,entregado
+Andrea Alfaro,Pie de limón,2025-03-01,entregado
+Andrea Alfaro,Torta de zanahoria,2025-03-01,entregado
+Luis Quispe,Brownies clásicos,2025-03-02,confirmado
+Luis Quispe,Pie de limón,2025-03-03,pendiente
+Luis Quispe,Tarta de frambuesa,2025-03-03,entregado
+Pedro Castañeda,Torta de chocolate,2025-03-03,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2025-03-04,pendiente
+Andrea Alfaro,Tarta de frambuesa,2025-03-04,entregado
+Ana Torres,Tarta de frambuesa,2025-03-05,entregado
+Ana Torres,Torta de zanahoria,2025-03-06,confirmado
+Pedro Castañeda,Tarta de frambuesa,2025-03-06,entregado
+Ana Torres,Cheesecake de maracuyá,2025-03-06,confirmado
+Valeria Mena,Cupcakes Red Velvet,2025-03-07,entregado
+Ana Torres,Pie de limón,2025-03-07,confirmado
+Valeria Mena,Cupcakes Red Velvet,2025-03-08,pendiente
+Luis Quispe,Torta de chocolate,2025-03-08,confirmado
+Andrea Alfaro,Mini cheesecake de fresa,2025-03-08,pendiente
+Ana Torres,Brownies clásicos,2025-03-09,entregado
+Luis Quispe,Torta de chocolate,2025-03-09,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2025-03-09,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2025-03-09,pendiente
+Pedro Castañeda,Pie de limón,2025-03-09,confirmado
+Lucía Ríos,Cupcakes Red Velvet,2025-03-10,confirmado
+Luis Quispe,Cheesecake de maracuyá,2025-03-10,entregado
+Andrea Alfaro,Mini cheesecake de fresa,2025-03-10,entregado
+Andrea Alfaro,Pie de limón,2025-03-10,confirmado
+Pedro Castañeda,Cupcakes Red Velvet,2025-03-10,confirmado
+Lucía Ríos,Torta de zanahoria,2025-03-11,entregado
+Ana Torres,Mini cheesecake de fresa,2025-03-12,pendiente
+Pedro Castañeda,Mini cheesecake de fresa,2025-03-12,pendiente
+Valeria Mena,Torta de chocolate,2025-03-12,confirmado
+Valeria Mena,Torta de chocolate,2025-03-13,entregado
+Valeria Mena,Tarta de frambuesa,2025-03-13,confirmado
+Ana Torres,Torta de chocolate,2025-03-13,pendiente
+Pedro Castañeda,Cupcakes Red Velvet,2025-03-14,entregado
+Pedro Castañeda,Torta de chocolate,2025-03-14,pendiente
+Luis Quispe,Tarta de frambuesa,2025-03-14,pendiente
+Andrea Alfaro,Torta de zanahoria,2025-03-14,entregado
+Carlos Huamán,Cheesecake de maracuyá,2025-03-14,entregado
+Valeria Mena,Cupcakes Red Velvet,2025-03-15,confirmado
+Carlos Huamán,Pie de limón,2025-03-16,confirmado
+Pedro Castañeda,Tarta de frambuesa,2025-03-16,entregado
+Andrea Alfaro,Pie de limón,2025-03-17,confirmado
+Luis Quispe,Brownies clásicos,2025-03-17,pendiente
+Jorge Salazar,Brownies clásicos,2025-03-17,entregado
+Carlos Huamán,Torta de zanahoria,2025-03-18,confirmado
+Lucía Ríos,Brownies clásicos,2025-03-19,pendiente
+Andrea Alfaro,Cheesecake de maracuyá,2025-03-19,confirmado
+Andrea Alfaro,Cupcakes Red Velvet,2025-03-19,confirmado
+Andrea Alfaro,Mini cheesecake de fresa,2025-03-19,confirmado
+Pedro Castañeda,Torta de chocolate,2025-03-19,pendiente
+Valeria Mena,Pie de limón,2025-03-20,pendiente
+Andrea Alfaro,Torta de chocolate,2025-03-20,pendiente
+Valeria Mena,Pie de limón,2025-03-21,pendiente
+Ana Torres,Tarta de frambuesa,2025-03-21,pendiente
+Ana Torres,Cupcakes Red Velvet,2025-03-21,entregado
+Valeria Mena,Cupcakes Red Velvet,2025-03-21,pendiente
+Valeria Mena,Brownies clásicos,2025-03-22,entregado
+Lucía Ríos,Cupcakes Red Velvet,2025-03-23,confirmado
+Pedro Castañeda,Torta de zanahoria,2025-03-24,entregado
+Lucía Ríos,Cupcakes Red Velvet,2025-03-24,pendiente
+Jorge Salazar,Brownies clásicos,2025-03-24,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2025-03-24,entregado
+Carlos Huamán,Brownies clásicos,2025-03-25,confirmado
+Luis Quispe,Cupcakes Red Velvet,2025-03-26,pendiente
+Valeria Mena,Torta de chocolate,2025-03-26,confirmado
+Valeria Mena,Brownies clásicos,2025-03-26,pendiente
+Lucía Ríos,Tarta de frambuesa,2025-03-26,pendiente
+Carlos Huamán,Brownies clásicos,2025-03-27,pendiente
+Andrea Alfaro,Brownies clásicos,2025-03-27,entregado
+Luis Quispe,Pie de limón,2025-03-27,confirmado
+Andrea Alfaro,Cupcakes Red Velvet,2025-03-27,pendiente
+Ana Torres,Pie de limón,2025-03-27,entregado
+Jorge Salazar,Torta de zanahoria,2025-03-28,entregado
+Lucía Ríos,Cheesecake de maracuyá,2025-03-28,pendiente
+Lucía Ríos,Torta de chocolate,2025-03-28,pendiente
+Pedro Castañeda,Mini cheesecake de fresa,2025-03-28,pendiente
+Ana Torres,Tarta de frambuesa,2025-03-28,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2025-03-29,pendiente
+Luis Quispe,Torta de chocolate,2025-03-29,entregado
+Luis Quispe,Cupcakes Red Velvet,2025-03-29,pendiente
+Luis Quispe,Cupcakes Red Velvet,2025-03-29,entregado
+Luis Quispe,Mini cheesecake de fresa,2025-03-30,confirmado
+Carlos Huamán,Cheesecake de maracuyá,2025-03-30,pendiente
+Ana Torres,Pie de limón,2025-03-30,confirmado
+Jorge Salazar,Cheesecake de maracuyá,2025-03-30,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2025-03-31,pendiente
+Carlos Huamán,Torta de zanahoria,2025-03-31,confirmado
+Valeria Mena,Brownies clásicos,2025-03-31,entregado
+Luis Quispe,Mini cheesecake de fresa,2025-03-31,entregado
+Andrea Alfaro,Brownies clásicos,2025-03-31,confirmado
+Valeria Mena,Cupcakes Red Velvet,2025-04-01,entregado
+Valeria Mena,Cheesecake de maracuyá,2025-04-01,pendiente
+Andrea Alfaro,Torta de zanahoria,2025-04-01,entregado
+Pedro Castañeda,Torta de chocolate,2025-04-02,confirmado
+Lucía Ríos,Cupcakes Red Velvet,2025-04-02,confirmado
+Andrea Alfaro,Cheesecake de maracuyá,2025-04-02,pendiente
+Jorge Salazar,Tarta de frambuesa,2025-04-02,entregado
+Jorge Salazar,Torta de chocolate,2025-04-02,entregado
+Carlos Huamán,Tarta de frambuesa,2025-04-03,pendiente
+Jorge Salazar,Cupcakes Red Velvet,2025-04-03,entregado
+Pedro Castañeda,Pie de limón,2025-04-03,pendiente
+Ana Torres,Torta de zanahoria,2025-04-03,entregado
+Luis Quispe,Brownies clásicos,2025-04-04,pendiente
+Pedro Castañeda,Tarta de frambuesa,2025-04-04,entregado
+Pedro Castañeda,Torta de chocolate,2025-04-05,entregado
+Carlos Huamán,Torta de chocolate,2025-04-05,entregado
+Jorge Salazar,Torta de chocolate,2025-04-05,entregado
+Carlos Huamán,Brownies clásicos,2025-04-05,pendiente
+Valeria Mena,Torta de zanahoria,2025-04-06,entregado
+Ana Torres,Cupcakes Red Velvet,2025-04-07,confirmado
+Andrea Alfaro,Tarta de frambuesa,2025-04-07,entregado
+Carlos Huamán,Cupcakes Red Velvet,2025-04-08,pendiente
+Ana Torres,Tarta de frambuesa,2025-04-08,pendiente
+Lucía Ríos,Tarta de frambuesa,2025-04-08,confirmado
+Ana Torres,Torta de zanahoria,2025-04-09,confirmado
+Valeria Mena,Brownies clásicos,2025-04-09,pendiente
+Valeria Mena,Torta de zanahoria,2025-04-09,pendiente
+Andrea Alfaro,Torta de zanahoria,2025-04-10,pendiente
+Valeria Mena,Cupcakes Red Velvet,2025-04-10,confirmado
+Ana Torres,Brownies clásicos,2025-04-10,pendiente
+Pedro Castañeda,Tarta de frambuesa,2025-04-10,pendiente
+Ana Torres,Torta de chocolate,2025-04-11,confirmado
+Lucía Ríos,Torta de chocolate,2025-04-11,confirmado
+Valeria Mena,Brownies clásicos,2025-04-12,entregado
+Carlos Huamán,Tarta de frambuesa,2025-04-12,pendiente
+Pedro Castañeda,Pie de limón,2025-04-12,pendiente
+Valeria Mena,Pie de limón,2025-04-12,entregado
+Jorge Salazar,Brownies clásicos,2025-04-12,confirmado
+Jorge Salazar,Cheesecake de maracuyá,2025-04-13,confirmado
+Valeria Mena,Mini cheesecake de fresa,2025-04-13,confirmado
+Jorge Salazar,Cheesecake de maracuyá,2025-04-13,pendiente
+Pedro Castañeda,Tarta de frambuesa,2025-04-14,entregado
+Lucía Ríos,Mini cheesecake de fresa,2025-04-14,pendiente
+Andrea Alfaro,Torta de chocolate,2025-04-14,confirmado
+Jorge Salazar,Cupcakes Red Velvet,2025-04-14,pendiente
+Carlos Huamán,Torta de chocolate,2025-04-14,confirmado
+Ana Torres,Pie de limón,2025-04-15,confirmado
+Carlos Huamán,Torta de zanahoria,2025-04-15,entregado
+Jorge Salazar,Mini cheesecake de fresa,2025-04-15,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2025-04-15,entregado
+Ana Torres,Tarta de frambuesa,2025-04-15,entregado
+Luis Quispe,Tarta de frambuesa,2025-04-16,confirmado
+Valeria Mena,Mini cheesecake de fresa,2025-04-17,confirmado
+Valeria Mena,Torta de zanahoria,2025-04-17,pendiente
+Andrea Alfaro,Cheesecake de maracuyá,2025-04-17,entregado
+Carlos Huamán,Cheesecake de maracuyá,2025-04-18,entregado
+Ana Torres,Tarta de frambuesa,2025-04-18,entregado
+Carlos Huamán,Cheesecake de maracuyá,2025-04-18,entregado
+Carlos Huamán,Torta de zanahoria,2025-04-18,entregado
+Luis Quispe,Pie de limón,2025-04-18,pendiente
+Pedro Castañeda,Tarta de frambuesa,2025-04-19,confirmado
+Carlos Huamán,Torta de zanahoria,2025-04-20,entregado
+Valeria Mena,Cheesecake de maracuyá,2025-04-21,pendiente
+Jorge Salazar,Torta de zanahoria,2025-04-21,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2025-04-22,pendiente
+Valeria Mena,Mini cheesecake de fresa,2025-04-22,pendiente
+Pedro Castañeda,Brownies clásicos,2025-04-22,pendiente
+Andrea Alfaro,Cheesecake de maracuyá,2025-04-22,pendiente
+Andrea Alfaro,Torta de chocolate,2025-04-22,entregado
+Andrea Alfaro,Cheesecake de maracuyá,2025-04-23,pendiente
+Pedro Castañeda,Brownies clásicos,2025-04-24,entregado
+Andrea Alfaro,Tarta de frambuesa,2025-04-24,confirmado
+Andrea Alfaro,Torta de zanahoria,2025-04-24,entregado
+Carlos Huamán,Cupcakes Red Velvet,2025-04-24,entregado
+Ana Torres,Cupcakes Red Velvet,2025-04-24,pendiente
+Valeria Mena,Cheesecake de maracuyá,2025-04-25,pendiente
+Andrea Alfaro,Mini cheesecake de fresa,2025-04-25,pendiente
+Valeria Mena,Torta de chocolate,2025-04-25,pendiente
+Jorge Salazar,Torta de zanahoria,2025-04-25,confirmado
+Jorge Salazar,Mini cheesecake de fresa,2025-04-25,confirmado
+Pedro Castañeda,Pie de limón,2025-04-26,pendiente
+Valeria Mena,Torta de chocolate,2025-04-27,pendiente
+Carlos Huamán,Brownies clásicos,2025-04-27,entregado
+Andrea Alfaro,Torta de chocolate,2025-04-27,pendiente
+Lucía Ríos,Torta de chocolate,2025-04-27,pendiente
+Andrea Alfaro,Torta de chocolate,2025-04-27,pendiente
+Jorge Salazar,Cupcakes Red Velvet,2025-04-28,confirmado
+Ana Torres,Cupcakes Red Velvet,2025-04-28,confirmado
+Lucía Ríos,Mini cheesecake de fresa,2025-04-28,confirmado
+Luis Quispe,Mini cheesecake de fresa,2025-04-28,confirmado
+Jorge Salazar,Torta de zanahoria,2025-04-29,confirmado
+Lucía Ríos,Torta de zanahoria,2025-04-29,confirmado
+Lucía Ríos,Pie de limón,2025-04-30,pendiente
+Andrea Alfaro,Mini cheesecake de fresa,2025-04-30,pendiente
+Ana Torres,Brownies clásicos,2025-04-30,entregado
+Pedro Castañeda,Cupcakes Red Velvet,2025-04-30,pendiente
+Valeria Mena,Pie de limón,2025-04-30,confirmado
+Jorge Salazar,Pie de limón,2025-05-01,entregado
+Valeria Mena,Torta de zanahoria,2025-05-01,confirmado
+Valeria Mena,Tarta de frambuesa,2025-05-01,entregado
+Carlos Huamán,Brownies clásicos,2025-05-02,pendiente
+Pedro Castañeda,Tarta de frambuesa,2025-05-02,confirmado
+Jorge Salazar,Cheesecake de maracuyá,2025-05-02,confirmado
+Luis Quispe,Pie de limón,2025-05-02,confirmado
+Valeria Mena,Cupcakes Red Velvet,2025-05-02,confirmado
+Andrea Alfaro,Cheesecake de maracuyá,2025-05-03,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2025-05-03,entregado
+Ana Torres,Brownies clásicos,2025-05-03,pendiente
+Andrea Alfaro,Torta de chocolate,2025-05-03,confirmado
+Ana Torres,Torta de chocolate,2025-05-03,confirmado
+Lucía Ríos,Torta de zanahoria,2025-05-04,entregado
+Ana Torres,Cheesecake de maracuyá,2025-05-04,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2025-05-04,entregado
+Jorge Salazar,Cupcakes Red Velvet,2025-05-04,pendiente
+Valeria Mena,Tarta de frambuesa,2025-05-04,confirmado
+Carlos Huamán,Torta de zanahoria,2025-05-05,entregado
+Jorge Salazar,Cupcakes Red Velvet,2025-05-06,pendiente
+Carlos Huamán,Brownies clásicos,2025-05-06,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2025-05-06,pendiente
+Pedro Castañeda,Cheesecake de maracuyá,2025-05-06,entregado
+Jorge Salazar,Cupcakes Red Velvet,2025-05-07,pendiente
+Pedro Castañeda,Pie de limón,2025-05-07,confirmado
+Pedro Castañeda,Torta de chocolate,2025-05-07,entregado
+Ana Torres,Torta de chocolate,2025-05-07,pendiente
+Carlos Huamán,Tarta de frambuesa,2025-05-08,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2025-05-08,entregado
+Jorge Salazar,Tarta de frambuesa,2025-05-08,pendiente
+Andrea Alfaro,Cupcakes Red Velvet,2025-05-08,entregado
+Lucía Ríos,Mini cheesecake de fresa,2025-05-08,pendiente
+Valeria Mena,Tarta de frambuesa,2025-05-09,pendiente
+Ana Torres,Mini cheesecake de fresa,2025-05-09,confirmado
+Carlos Huamán,Pie de limón,2025-05-09,pendiente
+Andrea Alfaro,Cupcakes Red Velvet,2025-05-10,confirmado
+Andrea Alfaro,Cheesecake de maracuyá,2025-05-10,pendiente
+Valeria Mena,Brownies clásicos,2025-05-10,confirmado
+Pedro Castañeda,Torta de zanahoria,2025-05-10,confirmado
+Lucía Ríos,Torta de chocolate,2025-05-11,entregado
+Jorge Salazar,Cupcakes Red Velvet,2025-05-11,pendiente
+Andrea Alfaro,Tarta de frambuesa,2025-05-11,pendiente
+Luis Quispe,Torta de chocolate,2025-05-11,pendiente
+Ana Torres,Cheesecake de maracuyá,2025-05-11,pendiente
+Andrea Alfaro,Cheesecake de maracuyá,2025-05-12,entregado
+Jorge Salazar,Brownies clásicos,2025-05-13,pendiente
+Carlos Huamán,Brownies clásicos,2025-05-14,entregado
+Andrea Alfaro,Pie de limón,2025-05-14,entregado
+Andrea Alfaro,Cupcakes Red Velvet,2025-05-14,pendiente
+Valeria Mena,Torta de chocolate,2025-05-14,pendiente
+Valeria Mena,Torta de zanahoria,2025-05-14,entregado
+Carlos Huamán,Torta de chocolate,2025-05-15,pendiente
+Pedro Castañeda,Cupcakes Red Velvet,2025-05-15,entregado
+Lucía Ríos,Tarta de frambuesa,2025-05-16,entregado
+Jorge Salazar,Tarta de frambuesa,2025-05-16,confirmado
+Pedro Castañeda,Torta de zanahoria,2025-05-16,pendiente
+Luis Quispe,Torta de chocolate,2025-05-17,pendiente
+Luis Quispe,Cheesecake de maracuyá,2025-05-18,entregado
+Pedro Castañeda,Mini cheesecake de fresa,2025-05-19,confirmado
+Ana Torres,Torta de chocolate,2025-05-19,confirmado
+Carlos Huamán,Pie de limón,2025-05-20,entregado
+Valeria Mena,Torta de zanahoria,2025-05-21,entregado
+Ana Torres,Torta de chocolate,2025-05-21,pendiente
+Andrea Alfaro,Mini cheesecake de fresa,2025-05-21,confirmado
+Pedro Castañeda,Cheesecake de maracuyá,2025-05-21,entregado
+Luis Quispe,Mini cheesecake de fresa,2025-05-21,confirmado
+Carlos Huamán,Brownies clásicos,2025-05-22,entregado
+Andrea Alfaro,Cheesecake de maracuyá,2025-05-22,entregado
+Andrea Alfaro,Torta de zanahoria,2025-05-22,pendiente
+Carlos Huamán,Torta de chocolate,2025-05-22,entregado
+Jorge Salazar,Torta de chocolate,2025-05-23,entregado
+Pedro Castañeda,Torta de chocolate,2025-05-23,confirmado
+Valeria Mena,Tarta de frambuesa,2025-05-24,entregado
+Valeria Mena,Cupcakes Red Velvet,2025-05-25,confirmado
+Lucía Ríos,Brownies clásicos,2025-05-25,entregado
+Jorge Salazar,Pie de limón,2025-05-25,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2025-05-25,confirmado
+Valeria Mena,Cheesecake de maracuyá,2025-05-26,confirmado
+Carlos Huamán,Torta de zanahoria,2025-05-27,entregado
+Ana Torres,Mini cheesecake de fresa,2025-05-27,confirmado
+Jorge Salazar,Cupcakes Red Velvet,2025-05-27,pendiente
+Jorge Salazar,Torta de zanahoria,2025-05-27,pendiente
+Jorge Salazar,Mini cheesecake de fresa,2025-05-27,confirmado
+Valeria Mena,Torta de chocolate,2025-05-28,entregado
+Luis Quispe,Torta de chocolate,2025-05-28,confirmado
+Ana Torres,Pie de limón,2025-05-28,pendiente
+Carlos Huamán,Mini cheesecake de fresa,2025-05-28,confirmado
+Luis Quispe,Brownies clásicos,2025-05-29,confirmado
+Jorge Salazar,Torta de zanahoria,2025-05-29,pendiente
+Carlos Huamán,Pie de limón,2025-05-30,pendiente
+Andrea Alfaro,Pie de limón,2025-05-30,pendiente
+Ana Torres,Torta de chocolate,2025-05-31,entregado
+Pedro Castañeda,Brownies clásicos,2025-05-31,entregado
+Andrea Alfaro,Cupcakes Red Velvet,2025-06-01,confirmado
+Andrea Alfaro,Torta de zanahoria,2025-06-01,confirmado
+Carlos Huamán,Mini cheesecake de fresa,2025-06-01,pendiente
+Lucía Ríos,Torta de chocolate,2025-06-02,confirmado
+Andrea Alfaro,Brownies clásicos,2025-06-02,pendiente
+Valeria Mena,Brownies clásicos,2025-06-02,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2025-06-02,confirmado
+Andrea Alfaro,Tarta de frambuesa,2025-06-02,confirmado
+Lucía Ríos,Pie de limón,2025-06-03,confirmado
+Ana Torres,Tarta de frambuesa,2025-06-03,entregado
+Pedro Castañeda,Brownies clásicos,2025-06-03,entregado
+Andrea Alfaro,Torta de chocolate,2025-06-04,entregado
+Valeria Mena,Pie de limón,2025-06-04,pendiente
+Jorge Salazar,Torta de zanahoria,2025-06-04,entregado
+Lucía Ríos,Cupcakes Red Velvet,2025-06-05,entregado
+Carlos Huamán,Mini cheesecake de fresa,2025-06-06,entregado
+Luis Quispe,Mini cheesecake de fresa,2025-06-06,pendiente
+Carlos Huamán,Tarta de frambuesa,2025-06-06,confirmado
+Luis Quispe,Mini cheesecake de fresa,2025-06-06,confirmado
+Ana Torres,Cupcakes Red Velvet,2025-06-06,confirmado
+Jorge Salazar,Brownies clásicos,2025-06-07,entregado
+Valeria Mena,Mini cheesecake de fresa,2025-06-07,entregado
+Ana Torres,Pie de limón,2025-06-07,entregado
+Andrea Alfaro,Torta de zanahoria,2025-06-08,confirmado
+Carlos Huamán,Torta de zanahoria,2025-06-08,confirmado
+Luis Quispe,Pie de limón,2025-06-08,entregado
+Luis Quispe,Tarta de frambuesa,2025-06-08,confirmado
+Andrea Alfaro,Torta de chocolate,2025-06-09,confirmado
+Jorge Salazar,Pie de limón,2025-06-09,confirmado
+Valeria Mena,Mini cheesecake de fresa,2025-06-09,pendiente
+Valeria Mena,Pie de limón,2025-06-09,confirmado
+Andrea Alfaro,Pie de limón,2025-06-10,pendiente
+Lucía Ríos,Torta de chocolate,2025-06-11,pendiente
+Luis Quispe,Torta de zanahoria,2025-06-11,entregado
+Luis Quispe,Cheesecake de maracuyá,2025-06-11,entregado
+Andrea Alfaro,Pie de limón,2025-06-11,entregado
+Lucía Ríos,Pie de limón,2025-06-12,entregado
+Jorge Salazar,Pie de limón,2025-06-13,pendiente
+Valeria Mena,Mini cheesecake de fresa,2025-06-13,confirmado
+Ana Torres,Cheesecake de maracuyá,2025-06-13,entregado
+Pedro Castañeda,Tarta de frambuesa,2025-06-13,pendiente
+Jorge Salazar,Pie de limón,2025-06-14,confirmado
+Carlos Huamán,Tarta de frambuesa,2025-06-14,confirmado
+Luis Quispe,Torta de zanahoria,2025-06-14,entregado
+Pedro Castañeda,Torta de chocolate,2025-06-14,entregado
+Luis Quispe,Cupcakes Red Velvet,2025-06-14,entregado
+Luis Quispe,Torta de zanahoria,2025-06-15,pendiente
+Andrea Alfaro,Tarta de frambuesa,2025-06-15,confirmado
+Lucía Ríos,Pie de limón,2025-06-15,confirmado
+Jorge Salazar,Tarta de frambuesa,2025-06-15,confirmado
+Jorge Salazar,Mini cheesecake de fresa,2025-06-16,entregado
+Andrea Alfaro,Cheesecake de maracuyá,2025-06-16,confirmado
+Ana Torres,Cupcakes Red Velvet,2025-06-16,entregado
+Valeria Mena,Brownies clásicos,2025-06-16,pendiente
+Luis Quispe,Torta de zanahoria,2025-06-17,confirmado
+Pedro Castañeda,Brownies clásicos,2025-06-17,entregado
+Luis Quispe,Mini cheesecake de fresa,2025-06-17,entregado
+Luis Quispe,Tarta de frambuesa,2025-06-17,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2025-06-17,confirmado
+Carlos Huamán,Torta de chocolate,2025-06-18,entregado
+Lucía Ríos,Tarta de frambuesa,2025-06-18,entregado
+Ana Torres,Cheesecake de maracuyá,2025-06-19,pendiente
+Andrea Alfaro,Pie de limón,2025-06-19,confirmado
+Jorge Salazar,Pie de limón,2025-06-19,pendiente
+Valeria Mena,Torta de chocolate,2025-06-19,confirmado
+Andrea Alfaro,Torta de chocolate,2025-06-20,pendiente
+Pedro Castañeda,Pie de limón,2025-06-20,entregado
+Valeria Mena,Cheesecake de maracuyá,2025-06-20,entregado
+Andrea Alfaro,Torta de zanahoria,2025-06-21,entregado
+Jorge Salazar,Brownies clásicos,2025-06-22,entregado
+Valeria Mena,Cupcakes Red Velvet,2025-06-22,pendiente
+Ana Torres,Tarta de frambuesa,2025-06-22,confirmado
+Valeria Mena,Mini cheesecake de fresa,2025-06-23,entregado
+Lucía Ríos,Cheesecake de maracuyá,2025-06-23,pendiente
+Jorge Salazar,Torta de chocolate,2025-06-23,pendiente
+Carlos Huamán,Pie de limón,2025-06-24,pendiente
+Pedro Castañeda,Torta de chocolate,2025-06-24,entregado
+Andrea Alfaro,Mini cheesecake de fresa,2025-06-24,confirmado
+Jorge Salazar,Tarta de frambuesa,2025-06-24,entregado
+Luis Quispe,Tarta de frambuesa,2025-06-25,entregado
+Carlos Huamán,Torta de zanahoria,2025-06-25,entregado
+Valeria Mena,Cupcakes Red Velvet,2025-06-25,pendiente
+Pedro Castañeda,Mini cheesecake de fresa,2025-06-25,entregado
+Jorge Salazar,Torta de zanahoria,2025-06-26,confirmado
+Lucía Ríos,Cheesecake de maracuyá,2025-06-27,pendiente
+Jorge Salazar,Tarta de frambuesa,2025-06-27,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2025-06-28,confirmado
+Valeria Mena,Cupcakes Red Velvet,2025-06-28,confirmado
+Pedro Castañeda,Torta de chocolate,2025-06-28,confirmado
+Jorge Salazar,Pie de limón,2025-06-29,confirmado
+Ana Torres,Cheesecake de maracuyá,2025-06-29,confirmado
+Ana Torres,Pie de limón,2025-06-30,pendiente
+Valeria Mena,Torta de chocolate,2025-06-30,pendiente
+Carlos Huamán,Brownies clásicos,2025-06-30,pendiente
+Luis Quispe,Torta de chocolate,2025-06-30,pendiente
+Valeria Mena,Torta de chocolate,2025-06-30,confirmado
+Ana Torres,Mini cheesecake de fresa,2025-07-01,entregado
+Andrea Alfaro,Torta de chocolate,2025-07-01,pendiente
+Andrea Alfaro,Cupcakes Red Velvet,2025-07-01,confirmado
+Valeria Mena,Mini cheesecake de fresa,2025-07-01,pendiente
+Lucía Ríos,Pie de limón,2025-07-02,pendiente
+Lucía Ríos,Brownies clásicos,2025-07-03,pendiente
+Carlos Huamán,Brownies clásicos,2025-07-04,confirmado
+Andrea Alfaro,Cupcakes Red Velvet,2025-07-04,confirmado
+Andrea Alfaro,Cupcakes Red Velvet,2025-07-04,pendiente
+Luis Quispe,Mini cheesecake de fresa,2025-07-04,confirmado
+Valeria Mena,Cheesecake de maracuyá,2025-07-05,pendiente
+Lucía Ríos,Mini cheesecake de fresa,2025-07-05,pendiente
+Andrea Alfaro,Mini cheesecake de fresa,2025-07-05,pendiente
+Lucía Ríos,Brownies clásicos,2025-07-05,confirmado
+Andrea Alfaro,Torta de chocolate,2025-07-06,confirmado
+Valeria Mena,Torta de chocolate,2025-07-07,entregado
+Andrea Alfaro,Tarta de frambuesa,2025-07-08,confirmado
+Carlos Huamán,Torta de chocolate,2025-07-08,pendiente
+Andrea Alfaro,Torta de chocolate,2025-07-08,pendiente
+Luis Quispe,Torta de zanahoria,2025-07-08,confirmado
+Valeria Mena,Mini cheesecake de fresa,2025-07-08,entregado
+Carlos Huamán,Torta de zanahoria,2025-07-09,pendiente
+Jorge Salazar,Brownies clásicos,2025-07-09,confirmado
+Luis Quispe,Pie de limón,2025-07-09,confirmado
+Lucía Ríos,Torta de chocolate,2025-07-09,entregado
+Ana Torres,Tarta de frambuesa,2025-07-09,pendiente
+Andrea Alfaro,Brownies clásicos,2025-07-10,confirmado
+Carlos Huamán,Mini cheesecake de fresa,2025-07-10,confirmado
+Lucía Ríos,Torta de zanahoria,2025-07-10,entregado
+Jorge Salazar,Pie de limón,2025-07-10,pendiente
+Pedro Castañeda,Brownies clásicos,2025-07-11,entregado
+Carlos Huamán,Pie de limón,2025-07-11,confirmado
+Lucía Ríos,Cupcakes Red Velvet,2025-07-11,confirmado
+Carlos Huamán,Brownies clásicos,2025-07-12,confirmado
+Luis Quispe,Pie de limón,2025-07-12,confirmado
+Valeria Mena,Torta de chocolate,2025-07-13,entregado
+Valeria Mena,Tarta de frambuesa,2025-07-13,entregado
+Jorge Salazar,Cheesecake de maracuyá,2025-07-13,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2025-07-14,entregado
+Ana Torres,Torta de chocolate,2025-07-14,confirmado
+Luis Quispe,Pie de limón,2025-07-14,pendiente
+Pedro Castañeda,Cheesecake de maracuyá,2025-07-14,entregado
+Pedro Castañeda,Mini cheesecake de fresa,2025-07-15,confirmado
+Ana Torres,Mini cheesecake de fresa,2025-07-15,pendiente
+Lucía Ríos,Cheesecake de maracuyá,2025-07-15,pendiente
+Ana Torres,Tarta de frambuesa,2025-07-16,pendiente
+Andrea Alfaro,Mini cheesecake de fresa,2025-07-16,pendiente
+Pedro Castañeda,Cupcakes Red Velvet,2025-07-16,confirmado
+Lucía Ríos,Cupcakes Red Velvet,2025-07-17,entregado
+Luis Quispe,Mini cheesecake de fresa,2025-07-17,confirmado
+Valeria Mena,Cheesecake de maracuyá,2025-07-17,pendiente
+Andrea Alfaro,Brownies clásicos,2025-07-17,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2025-07-18,confirmado
+Andrea Alfaro,Torta de zanahoria,2025-07-18,pendiente
+Jorge Salazar,Torta de zanahoria,2025-07-19,entregado
+Carlos Huamán,Cupcakes Red Velvet,2025-07-19,pendiente
+Valeria Mena,Mini cheesecake de fresa,2025-07-19,confirmado
+Luis Quispe,Torta de chocolate,2025-07-19,entregado
+Andrea Alfaro,Brownies clásicos,2025-07-20,confirmado
+Ana Torres,Torta de zanahoria,2025-07-21,confirmado
+Jorge Salazar,Tarta de frambuesa,2025-07-21,entregado
+Lucía Ríos,Cupcakes Red Velvet,2025-07-21,entregado
+Jorge Salazar,Mini cheesecake de fresa,2025-07-21,confirmado
+Andrea Alfaro,Brownies clásicos,2025-07-21,entregado
+Valeria Mena,Torta de zanahoria,2025-07-22,entregado
+Andrea Alfaro,Tarta de frambuesa,2025-07-22,pendiente
+Carlos Huamán,Brownies clásicos,2025-07-23,entregado
+Luis Quispe,Cupcakes Red Velvet,2025-07-24,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2025-07-25,entregado
+Ana Torres,Brownies clásicos,2025-07-25,confirmado
+Lucía Ríos,Pie de limón,2025-07-25,entregado
+Valeria Mena,Tarta de frambuesa,2025-07-25,confirmado
+Carlos Huamán,Mini cheesecake de fresa,2025-07-26,entregado
+Andrea Alfaro,Cupcakes Red Velvet,2025-07-26,pendiente
+Pedro Castañeda,Cupcakes Red Velvet,2025-07-27,confirmado
+Jorge Salazar,Brownies clásicos,2025-07-27,entregado
+Carlos Huamán,Tarta de frambuesa,2025-07-27,pendiente
+Andrea Alfaro,Cheesecake de maracuyá,2025-07-27,pendiente
+Pedro Castañeda,Cheesecake de maracuyá,2025-07-27,confirmado
+Jorge Salazar,Tarta de frambuesa,2025-07-28,confirmado
+Andrea Alfaro,Pie de limón,2025-07-28,pendiente
+Ana Torres,Torta de chocolate,2025-07-29,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2025-07-29,confirmado
+Lucía Ríos,Brownies clásicos,2025-07-29,confirmado
+Andrea Alfaro,Torta de zanahoria,2025-07-29,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2025-07-29,confirmado
+Carlos Huamán,Torta de chocolate,2025-07-30,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2025-07-30,pendiente
+Luis Quispe,Cupcakes Red Velvet,2025-07-30,pendiente
+Pedro Castañeda,Brownies clásicos,2025-07-31,confirmado
+Andrea Alfaro,Torta de chocolate,2025-08-01,entregado
+Jorge Salazar,Brownies clásicos,2025-08-02,entregado
+Ana Torres,Brownies clásicos,2025-08-02,confirmado
+Pedro Castañeda,Cupcakes Red Velvet,2025-08-02,pendiente
+Carlos Huamán,Cupcakes Red Velvet,2025-08-03,confirmado
+Lucía Ríos,Tarta de frambuesa,2025-08-04,pendiente
+Jorge Salazar,Torta de zanahoria,2025-08-04,confirmado
+Carlos Huamán,Tarta de frambuesa,2025-08-04,pendiente
+Luis Quispe,Mini cheesecake de fresa,2025-08-05,pendiente
+Luis Quispe,Tarta de frambuesa,2025-08-05,pendiente
+Pedro Castañeda,Brownies clásicos,2025-08-05,pendiente
+Jorge Salazar,Brownies clásicos,2025-08-05,confirmado
+Pedro Castañeda,Torta de chocolate,2025-08-05,pendiente
+Carlos Huamán,Torta de chocolate,2025-08-06,confirmado
+Luis Quispe,Torta de chocolate,2025-08-06,entregado
+Lucía Ríos,Cupcakes Red Velvet,2025-08-06,confirmado
+Luis Quispe,Tarta de frambuesa,2025-08-06,confirmado
+Lucía Ríos,Cheesecake de maracuyá,2025-08-06,entregado
+Carlos Huamán,Torta de zanahoria,2025-08-07,pendiente
+Jorge Salazar,Cupcakes Red Velvet,2025-08-07,entregado
+Luis Quispe,Tarta de frambuesa,2025-08-07,confirmado
+Luis Quispe,Mini cheesecake de fresa,2025-08-07,confirmado
+Pedro Castañeda,Brownies clásicos,2025-08-07,entregado
+Ana Torres,Cupcakes Red Velvet,2025-08-08,entregado
+Pedro Castañeda,Cupcakes Red Velvet,2025-08-08,confirmado
+Andrea Alfaro,Cupcakes Red Velvet,2025-08-08,confirmado
+Valeria Mena,Pie de limón,2025-08-09,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2025-08-09,pendiente
+Carlos Huamán,Tarta de frambuesa,2025-08-09,confirmado
+Andrea Alfaro,Pie de limón,2025-08-09,confirmado
+Luis Quispe,Tarta de frambuesa,2025-08-09,confirmado
+Ana Torres,Mini cheesecake de fresa,2025-08-10,entregado
+Carlos Huamán,Pie de limón,2025-08-10,pendiente
+Andrea Alfaro,Cupcakes Red Velvet,2025-08-10,pendiente
+Luis Quispe,Brownies clásicos,2025-08-10,entregado
+Jorge Salazar,Torta de chocolate,2025-08-11,confirmado
+Luis Quispe,Mini cheesecake de fresa,2025-08-12,entregado
+Lucía Ríos,Mini cheesecake de fresa,2025-08-13,pendiente
+Carlos Huamán,Torta de zanahoria,2025-08-13,confirmado
+Pedro Castañeda,Torta de zanahoria,2025-08-13,pendiente
+Ana Torres,Cupcakes Red Velvet,2025-08-13,confirmado
+Luis Quispe,Cheesecake de maracuyá,2025-08-14,confirmado
+Pedro Castañeda,Torta de chocolate,2025-08-14,confirmado
+Pedro Castañeda,Cupcakes Red Velvet,2025-08-14,entregado
+Andrea Alfaro,Torta de zanahoria,2025-08-14,pendiente
+Lucía Ríos,Pie de limón,2025-08-15,entregado
+Pedro Castañeda,Pie de limón,2025-08-15,entregado
+Jorge Salazar,Torta de zanahoria,2025-08-16,entregado
+Lucía Ríos,Cheesecake de maracuyá,2025-08-16,confirmado
+Ana Torres,Pie de limón,2025-08-16,confirmado
+Jorge Salazar,Torta de zanahoria,2025-08-16,confirmado
+Valeria Mena,Torta de zanahoria,2025-08-16,pendiente
+Jorge Salazar,Pie de limón,2025-08-17,pendiente
+Jorge Salazar,Cupcakes Red Velvet,2025-08-18,confirmado
+Luis Quispe,Torta de zanahoria,2025-08-18,pendiente
+Lucía Ríos,Cupcakes Red Velvet,2025-08-18,entregado
+Lucía Ríos,Torta de chocolate,2025-08-18,confirmado
+Luis Quispe,Pie de limón,2025-08-18,confirmado
+Luis Quispe,Pie de limón,2025-08-19,pendiente
+Andrea Alfaro,Brownies clásicos,2025-08-19,pendiente
+Carlos Huamán,Mini cheesecake de fresa,2025-08-19,confirmado
+Pedro Castañeda,Cupcakes Red Velvet,2025-08-19,pendiente
+Lucía Ríos,Pie de limón,2025-08-19,confirmado
+Valeria Mena,Cheesecake de maracuyá,2025-08-20,entregado
+Pedro Castañeda,Tarta de frambuesa,2025-08-21,confirmado
+Jorge Salazar,Tarta de frambuesa,2025-08-22,pendiente
+Valeria Mena,Tarta de frambuesa,2025-08-22,entregado
+Jorge Salazar,Torta de chocolate,2025-08-22,entregado
+Valeria Mena,Torta de chocolate,2025-08-23,entregado
+Andrea Alfaro,Torta de zanahoria,2025-08-24,confirmado
+Carlos Huamán,Pie de limón,2025-08-25,confirmado
+Andrea Alfaro,Torta de chocolate,2025-08-25,confirmado
+Lucía Ríos,Brownies clásicos,2025-08-25,pendiente
+Ana Torres,Torta de chocolate,2025-08-25,confirmado
+Pedro Castañeda,Cupcakes Red Velvet,2025-08-25,confirmado
+Pedro Castañeda,Mini cheesecake de fresa,2025-08-26,pendiente
+Jorge Salazar,Torta de zanahoria,2025-08-26,confirmado
+Jorge Salazar,Mini cheesecake de fresa,2025-08-27,entregado
+Andrea Alfaro,Mini cheesecake de fresa,2025-08-27,pendiente
+Jorge Salazar,Pie de limón,2025-08-27,entregado
+Luis Quispe,Mini cheesecake de fresa,2025-08-28,confirmado
+Ana Torres,Torta de chocolate,2025-08-29,confirmado
+Valeria Mena,Cheesecake de maracuyá,2025-08-30,confirmado
+Valeria Mena,Torta de chocolate,2025-08-30,entregado
+Lucía Ríos,Pie de limón,2025-08-30,entregado
+Pedro Castañeda,Tarta de frambuesa,2025-08-30,confirmado
+Andrea Alfaro,Tarta de frambuesa,2025-08-31,pendiente
+Luis Quispe,Brownies clásicos,2025-08-31,entregado
+Luis Quispe,Cheesecake de maracuyá,2025-09-01,confirmado
+Pedro Castañeda,Tarta de frambuesa,2025-09-01,entregado
+Andrea Alfaro,Cheesecake de maracuyá,2025-09-01,pendiente
+Luis Quispe,Brownies clásicos,2025-09-01,pendiente
+Ana Torres,Pie de limón,2025-09-01,confirmado
+Lucía Ríos,Torta de chocolate,2025-09-02,confirmado
+Pedro Castañeda,Pie de limón,2025-09-02,entregado
+Andrea Alfaro,Mini cheesecake de fresa,2025-09-03,confirmado
+Luis Quispe,Cupcakes Red Velvet,2025-09-03,entregado
+Ana Torres,Tarta de frambuesa,2025-09-03,pendiente
+Valeria Mena,Cheesecake de maracuyá,2025-09-03,confirmado
+Pedro Castañeda,Brownies clásicos,2025-09-04,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2025-09-04,entregado
+Andrea Alfaro,Mini cheesecake de fresa,2025-09-04,confirmado
+Andrea Alfaro,Mini cheesecake de fresa,2025-09-04,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2025-09-04,entregado
+Lucía Ríos,Mini cheesecake de fresa,2025-09-05,confirmado
+Carlos Huamán,Cupcakes Red Velvet,2025-09-05,entregado
+Carlos Huamán,Cupcakes Red Velvet,2025-09-05,confirmado
+Carlos Huamán,Brownies clásicos,2025-09-06,confirmado
+Jorge Salazar,Torta de zanahoria,2025-09-06,confirmado
+Luis Quispe,Mini cheesecake de fresa,2025-09-06,entregado
+Ana Torres,Torta de chocolate,2025-09-06,confirmado
+Ana Torres,Brownies clásicos,2025-09-06,confirmado
+Ana Torres,Brownies clásicos,2025-09-07,entregado
+Pedro Castañeda,Pie de limón,2025-09-07,entregado
+Jorge Salazar,Cheesecake de maracuyá,2025-09-07,confirmado
+Valeria Mena,Cupcakes Red Velvet,2025-09-08,entregado
+Pedro Castañeda,Tarta de frambuesa,2025-09-09,confirmado
+Lucía Ríos,Cupcakes Red Velvet,2025-09-09,pendiente
+Valeria Mena,Pie de limón,2025-09-09,confirmado
+Andrea Alfaro,Cupcakes Red Velvet,2025-09-09,pendiente
+Ana Torres,Cupcakes Red Velvet,2025-09-10,entregado
+Valeria Mena,Torta de zanahoria,2025-09-10,entregado
+Luis Quispe,Brownies clásicos,2025-09-11,confirmado
+Valeria Mena,Torta de zanahoria,2025-09-11,confirmado
+Pedro Castañeda,Tarta de frambuesa,2025-09-12,entregado
+Ana Torres,Tarta de frambuesa,2025-09-12,entregado
+Carlos Huamán,Torta de zanahoria,2025-09-13,confirmado
+Jorge Salazar,Cupcakes Red Velvet,2025-09-13,pendiente
+Luis Quispe,Torta de chocolate,2025-09-13,pendiente
+Luis Quispe,Tarta de frambuesa,2025-09-13,confirmado
+Jorge Salazar,Tarta de frambuesa,2025-09-14,pendiente
+Pedro Castañeda,Cheesecake de maracuyá,2025-09-15,confirmado
+Lucía Ríos,Pie de limón,2025-09-15,entregado
+Ana Torres,Torta de zanahoria,2025-09-15,entregado
+Luis Quispe,Torta de zanahoria,2025-09-15,confirmado
+Luis Quispe,Brownies clásicos,2025-09-15,pendiente
+Valeria Mena,Mini cheesecake de fresa,2025-09-16,pendiente
+Carlos Huamán,Brownies clásicos,2025-09-16,confirmado
+Lucía Ríos,Torta de zanahoria,2025-09-17,pendiente
+Ana Torres,Mini cheesecake de fresa,2025-09-18,pendiente
+Pedro Castañeda,Pie de limón,2025-09-18,entregado
+Lucía Ríos,Cupcakes Red Velvet,2025-09-18,confirmado
+Andrea Alfaro,Cupcakes Red Velvet,2025-09-18,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2025-09-19,entregado
+Jorge Salazar,Brownies clásicos,2025-09-19,entregado
+Luis Quispe,Cheesecake de maracuyá,2025-09-19,entregado
+Valeria Mena,Torta de zanahoria,2025-09-19,entregado
+Pedro Castañeda,Cheesecake de maracuyá,2025-09-20,confirmado
+Lucía Ríos,Torta de chocolate,2025-09-20,pendiente
+Luis Quispe,Cupcakes Red Velvet,2025-09-21,pendiente
+Ana Torres,Brownies clásicos,2025-09-22,entregado
+Luis Quispe,Cheesecake de maracuyá,2025-09-22,confirmado
+Ana Torres,Cupcakes Red Velvet,2025-09-22,pendiente
+Carlos Huamán,Pie de limón,2025-09-22,pendiente
+Pedro Castañeda,Tarta de frambuesa,2025-09-22,confirmado
+Valeria Mena,Torta de zanahoria,2025-09-23,pendiente
+Jorge Salazar,Cheesecake de maracuyá,2025-09-23,confirmado
+Carlos Huamán,Tarta de frambuesa,2025-09-23,pendiente
+Luis Quispe,Pie de limón,2025-09-23,pendiente
+Luis Quispe,Torta de zanahoria,2025-09-23,confirmado
+Luis Quispe,Cheesecake de maracuyá,2025-09-24,entregado
+Carlos Huamán,Cupcakes Red Velvet,2025-09-24,pendiente
+Valeria Mena,Torta de chocolate,2025-09-24,pendiente
+Valeria Mena,Pie de limón,2025-09-24,confirmado
+Luis Quispe,Torta de chocolate,2025-09-25,entregado
+Pedro Castañeda,Pie de limón,2025-09-25,confirmado
+Valeria Mena,Torta de zanahoria,2025-09-25,entregado
+Valeria Mena,Pie de limón,2025-09-25,confirmado
+Andrea Alfaro,Cheesecake de maracuyá,2025-09-26,pendiente
+Andrea Alfaro,Tarta de frambuesa,2025-09-27,pendiente
+Carlos Huamán,Tarta de frambuesa,2025-09-27,confirmado
+Pedro Castañeda,Torta de chocolate,2025-09-27,pendiente
+Jorge Salazar,Brownies clásicos,2025-09-27,entregado
+Andrea Alfaro,Torta de zanahoria,2025-09-28,confirmado
+Luis Quispe,Mini cheesecake de fresa,2025-09-28,confirmado
+Pedro Castañeda,Torta de zanahoria,2025-09-29,pendiente
+Carlos Huamán,Torta de chocolate,2025-09-29,confirmado
+Andrea Alfaro,Pie de limón,2025-09-30,entregado
+Ana Torres,Torta de zanahoria,2025-10-01,confirmado
+Lucía Ríos,Pie de limón,2025-10-01,entregado
+Carlos Huamán,Torta de chocolate,2025-10-01,entregado
+Jorge Salazar,Brownies clásicos,2025-10-01,pendiente
+Carlos Huamán,Pie de limón,2025-10-01,confirmado
+Andrea Alfaro,Pie de limón,2025-10-02,confirmado
+Jorge Salazar,Cheesecake de maracuyá,2025-10-02,confirmado
+Valeria Mena,Pie de limón,2025-10-03,pendiente
+Carlos Huamán,Torta de chocolate,2025-10-03,entregado
+Lucía Ríos,Brownies clásicos,2025-10-04,pendiente
+Lucía Ríos,Torta de chocolate,2025-10-04,pendiente
+Ana Torres,Cheesecake de maracuyá,2025-10-04,entregado
+Luis Quispe,Torta de zanahoria,2025-10-05,pendiente
+Lucía Ríos,Torta de zanahoria,2025-10-05,pendiente
+Jorge Salazar,Cheesecake de maracuyá,2025-10-05,pendiente
+Carlos Huamán,Torta de zanahoria,2025-10-05,confirmado
+Luis Quispe,Torta de chocolate,2025-10-06,entregado
+Pedro Castañeda,Torta de zanahoria,2025-10-06,entregado
+Ana Torres,Pie de limón,2025-10-07,pendiente
+Andrea Alfaro,Pie de limón,2025-10-08,confirmado
+Valeria Mena,Torta de zanahoria,2025-10-08,pendiente
+Ana Torres,Tarta de frambuesa,2025-10-08,entregado
+Jorge Salazar,Cupcakes Red Velvet,2025-10-08,pendiente
+Andrea Alfaro,Cheesecake de maracuyá,2025-10-08,pendiente
+Valeria Mena,Tarta de frambuesa,2025-10-09,confirmado
+Luis Quispe,Brownies clásicos,2025-10-10,entregado
+Andrea Alfaro,Brownies clásicos,2025-10-11,confirmado
+Valeria Mena,Brownies clásicos,2025-10-12,pendiente
+Carlos Huamán,Torta de zanahoria,2025-10-12,confirmado
+Valeria Mena,Brownies clásicos,2025-10-12,pendiente
+Lucía Ríos,Torta de chocolate,2025-10-13,confirmado
+Lucía Ríos,Tarta de frambuesa,2025-10-14,confirmado
+Valeria Mena,Cheesecake de maracuyá,2025-10-14,entregado
+Luis Quispe,Brownies clásicos,2025-10-15,confirmado
+Carlos Huamán,Torta de zanahoria,2025-10-15,entregado
+Andrea Alfaro,Cheesecake de maracuyá,2025-10-15,pendiente
+Ana Torres,Torta de zanahoria,2025-10-15,confirmado
+Valeria Mena,Torta de chocolate,2025-10-16,pendiente
+Carlos Huamán,Cupcakes Red Velvet,2025-10-16,entregado
+Lucía Ríos,Torta de zanahoria,2025-10-16,pendiente
+Andrea Alfaro,Cupcakes Red Velvet,2025-10-17,pendiente
+Ana Torres,Cheesecake de maracuyá,2025-10-18,entregado
+Andrea Alfaro,Tarta de frambuesa,2025-10-18,confirmado
+Pedro Castañeda,Pie de limón,2025-10-18,confirmado
+Andrea Alfaro,Mini cheesecake de fresa,2025-10-19,confirmado
+Andrea Alfaro,Brownies clásicos,2025-10-19,pendiente
+Luis Quispe,Brownies clásicos,2025-10-19,entregado
+Valeria Mena,Cheesecake de maracuyá,2025-10-20,pendiente
+Luis Quispe,Torta de chocolate,2025-10-20,pendiente
+Andrea Alfaro,Pie de limón,2025-10-20,entregado
+Pedro Castañeda,Cupcakes Red Velvet,2025-10-20,entregado
+Lucía Ríos,Brownies clásicos,2025-10-21,entregado
+Lucía Ríos,Cheesecake de maracuyá,2025-10-21,pendiente
+Jorge Salazar,Torta de chocolate,2025-10-22,confirmado
+Valeria Mena,Cupcakes Red Velvet,2025-10-22,confirmado
+Jorge Salazar,Pie de limón,2025-10-22,pendiente
+Luis Quispe,Pie de limón,2025-10-22,pendiente
+Luis Quispe,Brownies clásicos,2025-10-23,confirmado
+Ana Torres,Cheesecake de maracuyá,2025-10-24,pendiente
+Jorge Salazar,Cheesecake de maracuyá,2025-10-24,pendiente
+Ana Torres,Cheesecake de maracuyá,2025-10-24,confirmado
+Lucía Ríos,Cheesecake de maracuyá,2025-10-24,entregado
+Carlos Huamán,Torta de zanahoria,2025-10-24,pendiente
+Luis Quispe,Torta de chocolate,2025-10-25,confirmado
+Jorge Salazar,Cheesecake de maracuyá,2025-10-25,pendiente
+Carlos Huamán,Cupcakes Red Velvet,2025-10-25,confirmado
+Andrea Alfaro,Mini cheesecake de fresa,2025-10-25,pendiente
+Ana Torres,Pie de limón,2025-10-25,pendiente
+Ana Torres,Tarta de frambuesa,2025-10-26,pendiente
+Pedro Castañeda,Cupcakes Red Velvet,2025-10-26,pendiente
+Jorge Salazar,Brownies clásicos,2025-10-26,pendiente
+Andrea Alfaro,Pie de limón,2025-10-26,entregado
+Andrea Alfaro,Pie de limón,2025-10-27,confirmado
+Jorge Salazar,Mini cheesecake de fresa,2025-10-27,pendiente
+Carlos Huamán,Pie de limón,2025-10-27,confirmado
+Andrea Alfaro,Torta de zanahoria,2025-10-28,pendiente
+Ana Torres,Cupcakes Red Velvet,2025-10-28,confirmado
+Jorge Salazar,Tarta de frambuesa,2025-10-28,pendiente
+Ana Torres,Torta de chocolate,2025-10-28,confirmado
+Ana Torres,Pie de limón,2025-10-28,entregado
+Carlos Huamán,Cupcakes Red Velvet,2025-10-29,confirmado
+Ana Torres,Cheesecake de maracuyá,2025-10-29,entregado
+Carlos Huamán,Tarta de frambuesa,2025-10-30,pendiente
+Andrea Alfaro,Cheesecake de maracuyá,2025-10-31,confirmado
+Carlos Huamán,Tarta de frambuesa,2025-10-31,confirmado
+Lucía Ríos,Brownies clásicos,2025-10-31,confirmado

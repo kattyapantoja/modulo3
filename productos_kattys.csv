@@ -1,0 +1,16 @@
+producto,ingredientes,tiempo_preparacion_horas,precio_sugerido,categoria
+"Torta de chocolate,""harina 400 gramos, azúcar 300 gramos, cacao 100 gramos, 4 huevos, mantequilla 200 gramos"",48 horas,65 soles",,,,
+"Mini cupcakes de vainilla,""harina 250 gramos, azúcar 200 gramos, 3 huevos, 10 esencia de vainilla, mantequilla 150 gramos"",24  horas,30 soles",,,,
+"Cheesecake de maracuyá,""galletas 200 gramos, mantequilla 100 gramos, queso crema 400 gramos, azúcar 150 gramos, maracuyá 200 gramos"",36  horas,55 soles",,,,
+Tarta de frambuesa,,,65.0,tarta
+Cheesecake de maracuyá,,,70.0,cheesecake
+Cupcakes Red Velvet,,,55.0,cupcake
+Torta Selva Negra,,,80.0,torta
+Torta tres leches,,,75.0,torta
+Cupcakes de vainilla,,,45.0,cupcake
+Cheesecake de arándanos,,,72.0,cheesecake
+Pie de manzana,,,68.0,pie
+Mini brownies,,,40.0,brownie
+Tarta de limón,,,60.0,tarta
+Mini cupcakes de vainilla,,,50.0,sin_categoria
+Torta de chocolate,,,50.0,sin_categoria
