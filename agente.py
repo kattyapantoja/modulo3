@@ -53,9 +53,6 @@ def redirigir_a_agente(input):
 
 # Rama de control
 agente_controlador = RunnableBranch(
-    (lambda x: True, RunnableLambda(lambda x: redirigir_a_agente(x).invoke({
-        "input": x["input"],
-        "intermediate_steps": []
-    }))),
+    (lambda x: True, RunnableLambda(lambda x: redirigir_a_agente(x).invoke(x))),
     RunnableLambda(lambda x: {"output": "Lo siento, no entendí tu consulta."})
 )
